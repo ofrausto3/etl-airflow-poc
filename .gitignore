@@ -1,0 +1,17 @@
+﻿# Python
+__pycache__/
+*.pyc
+
+# venv
+.venv/
+
+# Airflow
+logs/
+plugins/__pycache__/
+
+# Local env/credentials
+.env
+
+# Archives / temp
+data_archive/
+.DS_Store
