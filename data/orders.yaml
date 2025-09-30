@@ -1,0 +1,8000 @@
+- order_id: 1
+  customer_id: 292
+  order_date: '2025-01-05 18:45:05'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 778.89
+  discount_amount: 74.43
+  shipping_cost: 38.9
+- order_id: 2
+  customer_id: 800
+  order_date: '2025-03-21 07:33:24'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 12.3
+  discount_amount: 81.93
+  shipping_cost: 27.74
+- order_id: 3
+  customer_id: 596
+  order_date: '2025-09-23 16:45:35'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 1030.23
+  discount_amount: 68.1
+  shipping_cost: 18.28
+- order_id: 4
+  customer_id: 792
+  order_date: '2025-09-17 07:42:05'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 1930.86
+  discount_amount: 47.82
+  shipping_cost: 16.88
+- order_id: 5
+  customer_id: 730
+  order_date: '2024-10-13 12:46:46'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 405.98
+  discount_amount: 45.72
+  shipping_cost: 25.1
+- order_id: 6
+  customer_id: 88
+  order_date: '2025-03-24 12:36:31'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 1606.72
+  discount_amount: 89.52
+  shipping_cost: 26.51
+- order_id: 7
+  customer_id: 741
+  order_date: '2024-10-18 16:35:54'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 1645.41
+  discount_amount: 87.68
+  shipping_cost: 0.26
+- order_id: 8
+  customer_id: 937
+  order_date: '2025-08-31 05:10:33'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 174.55
+  discount_amount: 84.97
+  shipping_cost: 35.8
+- order_id: 9
+  customer_id: 222
+  order_date: '2025-05-29 15:09:18'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 883.66
+  discount_amount: 73.1
+  shipping_cost: 5.84
+- order_id: 10
+  customer_id: 453
+  order_date: '2025-02-24 17:51:35'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 1533.47
+  discount_amount: 15.1
+  shipping_cost: 19.08
+- order_id: 11
+  customer_id: 609
+  order_date: '2024-11-04 08:14:38'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 104.48
+  discount_amount: 2.62
+  shipping_cost: 12.27
+- order_id: 12
+  customer_id: 779
+  order_date: '2025-01-16 01:28:48'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 10.6
+  discount_amount: 95.05
+  shipping_cost: 28.29
+- order_id: 13
+  customer_id: 762
+  order_date: '2025-03-18 06:50:37'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 1600.23
+  discount_amount: 87.91
+  shipping_cost: 18.74
+- order_id: 14
+  customer_id: 395
+  order_date: '2025-02-04 09:41:30'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 1080.3
+  discount_amount: 60.05
+  shipping_cost: 5.76
+- order_id: 15
+  customer_id: 360
+  order_date: '2025-07-02 19:43:31'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 1298.03
+  discount_amount: 84.97
+  shipping_cost: 29.32
+- order_id: 16
+  customer_id: 512
+  order_date: '2025-09-01 14:37:48'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 146.33
+  discount_amount: 59.35
+  shipping_cost: 18.65
+- order_id: 17
+  customer_id: 294
+  order_date: '2025-06-14 06:30:12'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 1050.84
+  discount_amount: 18.49
+  shipping_cost: 35.39
+- order_id: 18
+  customer_id: 483
+  order_date: '2025-07-14 07:37:46'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 1859.11
+  discount_amount: 22.22
+  shipping_cost: 4.96
+- order_id: 19
+  customer_id: 332
+  order_date: '2025-07-13 09:15:03'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 1188.26
+  discount_amount: 99.65
+  shipping_cost: 27.54
+- order_id: 20
+  customer_id: 797
+  order_date: '2025-08-01 03:16:21'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 556.8
+  discount_amount: 5.85
+  shipping_cost: 7.49
+- order_id: 21
+  customer_id: 556
+  order_date: '2024-12-27 00:11:58'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 1594.31
+  discount_amount: 54.34
+  shipping_cost: 19.16
+- order_id: 22
+  customer_id: 785
+  order_date: '2025-05-27 07:12:28'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 1855.49
+  discount_amount: 65.12
+  shipping_cost: 35.01
+- order_id: 23
+  customer_id: 823
+  order_date: '2025-01-18 08:13:07'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 207.82
+  discount_amount: 2.36
+  shipping_cost: 31.95
+- order_id: 24
+  customer_id: 791
+  order_date: '2025-05-26 15:03:06'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 1014.16
+  discount_amount: 36.25
+  shipping_cost: 37.66
+- order_id: 25
+  customer_id: 807
+  order_date: '2025-06-28 12:58:23'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 748.58
+  discount_amount: 50.97
+  shipping_cost: 31.8
+- order_id: 26
+  customer_id: 87
+  order_date: '2025-01-12 03:59:45'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 1181.2
+  discount_amount: 39.85
+  shipping_cost: 16.74
+- order_id: 27
+  customer_id: 719
+  order_date: '2024-12-06 09:52:36'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 353.32
+  discount_amount: 21.22
+  shipping_cost: 11.32
+- order_id: 28
+  customer_id: 881
+  order_date: '2024-12-08 09:51:03'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 701.2
+  discount_amount: 86.49
+  shipping_cost: 21.97
+- order_id: 29
+  customer_id: 592
+  order_date: '2025-09-02 00:33:27'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 1813.33
+  discount_amount: 99.36
+  shipping_cost: 5.96
+- order_id: 30
+  customer_id: 940
+  order_date: '2025-06-08 03:35:07'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 459.58
+  discount_amount: 56.35
+  shipping_cost: 22.61
+- order_id: 31
+  customer_id: 607
+  order_date: '2025-02-17 04:27:20'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 186.54
+  discount_amount: 50.84
+  shipping_cost: 12.66
+- order_id: 32
+  customer_id: 323
+  order_date: '2024-10-03 18:56:53'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 1250.52
+  discount_amount: 40.62
+  shipping_cost: 6.94
+- order_id: 33
+  customer_id: 443
+  order_date: '2025-02-19 12:57:12'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 93.24
+  discount_amount: 96.64
+  shipping_cost: 39.51
+- order_id: 34
+  customer_id: 179
+  order_date: '2024-10-20 19:04:19'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 79.59
+  discount_amount: 89.93
+  shipping_cost: 27.64
+- order_id: 35
+  customer_id: 322
+  order_date: '2025-05-15 17:09:31'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 131.33
+  discount_amount: 28.79
+  shipping_cost: 34.19
+- order_id: 36
+  customer_id: 700
+  order_date: '2025-08-29 15:28:25'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 437.37
+  discount_amount: 50.17
+  shipping_cost: 36.09
+- order_id: 37
+  customer_id: 848
+  order_date: '2025-04-27 10:04:26'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 1999.17
+  discount_amount: 37.69
+  shipping_cost: 7.12
+- order_id: 38
+  customer_id: 630
+  order_date: '2025-04-28 18:51:55'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 62.0
+  discount_amount: 80.24
+  shipping_cost: 17.1
+- order_id: 39
+  customer_id: 116
+  order_date: '2025-01-23 17:15:21'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 943.21
+  discount_amount: 56.67
+  shipping_cost: 24.21
+- order_id: 40
+  customer_id: 943
+  order_date: '2025-06-19 03:17:04'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 1319.77
+  discount_amount: 80.47
+  shipping_cost: 38.64
+- order_id: 41
+  customer_id: 886
+  order_date: '2025-03-04 06:02:54'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 871.98
+  discount_amount: 2.51
+  shipping_cost: 4.57
+- order_id: 42
+  customer_id: 590
+  order_date: '2024-10-29 00:16:46'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 1632.95
+  discount_amount: 19.64
+  shipping_cost: 15.81
+- order_id: 43
+  customer_id: 966
+  order_date: '2025-01-16 08:39:54'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 637.39
+  discount_amount: 86.69
+  shipping_cost: 38.7
+- order_id: 44
+  customer_id: 584
+  order_date: '2025-06-28 05:04:38'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 570.0
+  discount_amount: 21.06
+  shipping_cost: 4.91
+- order_id: 45
+  customer_id: 871
+  order_date: '2024-12-07 13:49:43'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 1522.24
+  discount_amount: 1.44
+  shipping_cost: 4.47
+- order_id: 46
+  customer_id: 487
+  order_date: '2025-09-03 20:12:34'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 1409.17
+  discount_amount: 56.24
+  shipping_cost: 22.98
+- order_id: 47
+  customer_id: 110
+  order_date: '2025-06-10 08:07:14'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 658.01
+  discount_amount: 34.38
+  shipping_cost: 10.42
+- order_id: 48
+  customer_id: 254
+  order_date: '2025-02-08 10:56:18'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 1602.74
+  discount_amount: 30.66
+  shipping_cost: 27.95
+- order_id: 49
+  customer_id: 894
+  order_date: '2025-06-15 23:23:17'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 949.16
+  discount_amount: 30.1
+  shipping_cost: 8.3
+- order_id: 50
+  customer_id: 2
+  order_date: '2025-08-04 07:36:56'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 1008.44
+  discount_amount: 18.58
+  shipping_cost: 4.99
+- order_id: 51
+  customer_id: 885
+  order_date: '2025-02-11 21:00:36'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 285.95
+  discount_amount: 47.04
+  shipping_cost: 13.22
+- order_id: 52
+  customer_id: 188
+  order_date: '2024-10-31 18:13:07'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 1808.47
+  discount_amount: 16.63
+  shipping_cost: 13.13
+- order_id: 53
+  customer_id: 559
+  order_date: '2025-03-10 06:14:09'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 200.51
+  discount_amount: 54.64
+  shipping_cost: 15.67
+- order_id: 54
+  customer_id: 617
+  order_date: '2024-12-19 18:56:57'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 371.03
+  discount_amount: 22.88
+  shipping_cost: 6.88
+- order_id: 55
+  customer_id: 77
+  order_date: '2025-08-29 16:51:38'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 1132.28
+  discount_amount: 65.19
+  shipping_cost: 1.89
+- order_id: 56
+  customer_id: 479
+  order_date: '2025-08-13 06:06:14'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 297.19
+  discount_amount: 4.88
+  shipping_cost: 33.22
+- order_id: 57
+  customer_id: 51
+  order_date: '2025-03-01 21:21:21'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 1606.23
+  discount_amount: 5.53
+  shipping_cost: 31.89
+- order_id: 58
+  customer_id: 679
+  order_date: '2024-10-05 01:38:49'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 271.62
+  discount_amount: 28.62
+  shipping_cost: 24.05
+- order_id: 59
+  customer_id: 138
+  order_date: '2025-02-05 16:41:08'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 311.9
+  discount_amount: 24.46
+  shipping_cost: 17.57
+- order_id: 60
+  customer_id: 106
+  order_date: '2025-08-05 12:59:12'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 132.41
+  discount_amount: 14.39
+  shipping_cost: 30.67
+- order_id: 61
+  customer_id: 774
+  order_date: '2024-12-01 19:49:35'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 659.1
+  discount_amount: 9.04
+  shipping_cost: 0.7
+- order_id: 62
+  customer_id: 56
+  order_date: '2025-06-12 15:47:14'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 1093.48
+  discount_amount: 65.42
+  shipping_cost: 8.08
+- order_id: 63
+  customer_id: 205
+  order_date: '2025-06-01 17:21:07'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 1037.37
+  discount_amount: 20.49
+  shipping_cost: 19.58
+- order_id: 64
+  customer_id: 944
+  order_date: '2025-03-23 07:37:07'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 226.8
+  discount_amount: 70.25
+  shipping_cost: 13.69
+- order_id: 65
+  customer_id: 779
+  order_date: '2025-09-14 20:36:49'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 1310.14
+  discount_amount: 61.77
+  shipping_cost: 15.22
+- order_id: 66
+  customer_id: 640
+  order_date: '2024-10-08 13:35:58'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 1076.17
+  discount_amount: 59.91
+  shipping_cost: 4.11
+- order_id: 67
+  customer_id: 650
+  order_date: '2024-12-16 00:33:24'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 1327.34
+  discount_amount: 66.67
+  shipping_cost: 31.0
+- order_id: 68
+  customer_id: 520
+  order_date: '2024-10-16 20:00:14'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 1159.42
+  discount_amount: 26.75
+  shipping_cost: 16.59
+- order_id: 69
+  customer_id: 944
+  order_date: '2024-12-10 13:31:49'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 1685.98
+  discount_amount: 35.03
+  shipping_cost: 38.63
+- order_id: 70
+  customer_id: 529
+  order_date: '2025-04-19 10:49:47'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 1028.32
+  discount_amount: 62.32
+  shipping_cost: 6.18
+- order_id: 71
+  customer_id: 696
+  order_date: '2025-01-23 20:26:23'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 256.64
+  discount_amount: 12.35
+  shipping_cost: 29.85
+- order_id: 72
+  customer_id: 803
+  order_date: '2025-04-21 10:29:55'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 465.78
+  discount_amount: 18.68
+  shipping_cost: 29.9
+- order_id: 73
+  customer_id: 441
+  order_date: '2025-03-20 11:37:39'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 1988.95
+  discount_amount: 91.51
+  shipping_cost: 10.95
+- order_id: 74
+  customer_id: 169
+  order_date: '2024-11-11 19:30:56'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 1577.75
+  discount_amount: 95.18
+  shipping_cost: 25.56
+- order_id: 75
+  customer_id: 442
+  order_date: '2025-06-12 13:42:55'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 109.37
+  discount_amount: 24.67
+  shipping_cost: 4.7
+- order_id: 76
+  customer_id: 620
+  order_date: '2024-10-04 04:52:32'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 637.07
+  discount_amount: 46.18
+  shipping_cost: 21.28
+- order_id: 77
+  customer_id: 356
+  order_date: '2025-06-27 15:10:22'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 1959.69
+  discount_amount: 36.71
+  shipping_cost: 19.35
+- order_id: 78
+  customer_id: 178
+  order_date: '2025-01-24 09:35:44'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 835.54
+  discount_amount: 74.13
+  shipping_cost: 34.48
+- order_id: 79
+  customer_id: 619
+  order_date: '2025-02-03 07:26:32'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 1352.48
+  discount_amount: 48.28
+  shipping_cost: 7.01
+- order_id: 80
+  customer_id: 967
+  order_date: '2025-09-13 02:27:25'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 1377.17
+  discount_amount: 57.72
+  shipping_cost: 36.2
+- order_id: 81
+  customer_id: 354
+  order_date: '2025-04-24 00:43:35'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 841.31
+  discount_amount: 5.03
+  shipping_cost: 18.61
+- order_id: 82
+  customer_id: 280
+  order_date: '2024-12-10 17:26:51'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 715.37
+  discount_amount: 81.77
+  shipping_cost: 36.19
+- order_id: 83
+  customer_id: 537
+  order_date: '2025-05-01 16:37:20'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 1267.57
+  discount_amount: 20.69
+  shipping_cost: 35.04
+- order_id: 84
+  customer_id: 185
+  order_date: '2024-10-09 20:47:41'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 1835.96
+  discount_amount: 43.23
+  shipping_cost: 37.13
+- order_id: 85
+  customer_id: 671
+  order_date: '2024-12-10 00:54:55'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 1613.03
+  discount_amount: 74.53
+  shipping_cost: 10.69
+- order_id: 86
+  customer_id: 515
+  order_date: '2025-02-15 06:19:57'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 723.34
+  discount_amount: 10.58
+  shipping_cost: 8.56
+- order_id: 87
+  customer_id: 844
+  order_date: '2025-05-02 12:09:51'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 36.38
+  discount_amount: 60.86
+  shipping_cost: 12.45
+- order_id: 88
+  customer_id: 484
+  order_date: '2025-04-19 19:13:37'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 66.05
+  discount_amount: 34.57
+  shipping_cost: 3.95
+- order_id: 89
+  customer_id: 50
+  order_date: '2025-05-12 16:22:25'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 141.52
+  discount_amount: 83.31
+  shipping_cost: 14.67
+- order_id: 90
+  customer_id: 734
+  order_date: '2025-06-24 08:53:13'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 1014.56
+  discount_amount: 27.28
+  shipping_cost: 6.42
+- order_id: 91
+  customer_id: 572
+  order_date: '2024-11-21 03:28:26'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 1590.72
+  discount_amount: 33.27
+  shipping_cost: 7.75
+- order_id: 92
+  customer_id: 700
+  order_date: '2025-02-25 03:45:08'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 523.61
+  discount_amount: 10.71
+  shipping_cost: 5.43
+- order_id: 93
+  customer_id: 716
+  order_date: '2025-08-02 12:25:38'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 440.42
+  discount_amount: 78.27
+  shipping_cost: 9.37
+- order_id: 94
+  customer_id: 750
+  order_date: '2025-08-05 10:26:55'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 146.79
+  discount_amount: 61.09
+  shipping_cost: 34.2
+- order_id: 95
+  customer_id: 960
+  order_date: '2025-03-25 07:35:37'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 787.61
+  discount_amount: 96.11
+  shipping_cost: 16.53
+- order_id: 96
+  customer_id: 723
+  order_date: '2025-05-14 15:03:21'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 1211.74
+  discount_amount: 41.3
+  shipping_cost: 26.42
+- order_id: 97
+  customer_id: 890
+  order_date: '2025-04-30 11:33:46'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 1011.57
+  discount_amount: 60.7
+  shipping_cost: 11.84
+- order_id: 98
+  customer_id: 834
+  order_date: '2024-12-16 00:14:18'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 960.0
+  discount_amount: 37.06
+  shipping_cost: 30.97
+- order_id: 99
+  customer_id: 56
+  order_date: '2025-06-18 03:16:59'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 1710.38
+  discount_amount: 20.32
+  shipping_cost: 11.55
+- order_id: 100
+  customer_id: 778
+  order_date: '2025-03-24 06:06:20'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 714.23
+  discount_amount: 3.94
+  shipping_cost: 32.64
+- order_id: 101
+  customer_id: 576
+  order_date: '2025-02-17 17:15:14'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 770.34
+  discount_amount: 85.95
+  shipping_cost: 18.56
+- order_id: 102
+  customer_id: 528
+  order_date: '2024-12-20 14:49:50'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 1797.48
+  discount_amount: 6.61
+  shipping_cost: 29.12
+- order_id: 103
+  customer_id: 121
+  order_date: '2025-08-17 03:29:35'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 1062.27
+  discount_amount: 80.15
+  shipping_cost: 14.05
+- order_id: 104
+  customer_id: 706
+  order_date: '2024-11-12 19:49:54'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 993.29
+  discount_amount: 29.78
+  shipping_cost: 32.88
+- order_id: 105
+  customer_id: 478
+  order_date: '2025-04-14 09:01:27'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 1257.86
+  discount_amount: 60.41
+  shipping_cost: 12.76
+- order_id: 106
+  customer_id: 14
+  order_date: '2024-10-25 14:00:36'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 1275.05
+  discount_amount: 11.9
+  shipping_cost: 36.28
+- order_id: 107
+  customer_id: 686
+  order_date: '2024-12-27 08:43:26'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 280.31
+  discount_amount: 67.3
+  shipping_cost: 18.1
+- order_id: 108
+  customer_id: 652
+  order_date: '2024-10-01 16:38:30'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 340.53
+  discount_amount: 77.86
+  shipping_cost: 22.77
+- order_id: 109
+  customer_id: 973
+  order_date: '2025-03-10 13:14:07'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 1585.2
+  discount_amount: 25.02
+  shipping_cost: 35.98
+- order_id: 110
+  customer_id: 200
+  order_date: '2025-02-03 22:14:49'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 1425.02
+  discount_amount: 94.45
+  shipping_cost: 7.11
+- order_id: 111
+  customer_id: 887
+  order_date: '2024-11-02 14:42:50'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 1292.88
+  discount_amount: 71.54
+  shipping_cost: 35.97
+- order_id: 112
+  customer_id: 743
+  order_date: '2024-12-12 02:11:19'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 1281.23
+  discount_amount: 62.25
+  shipping_cost: 6.29
+- order_id: 113
+  customer_id: 823
+  order_date: '2025-05-27 10:47:46'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 1123.8
+  discount_amount: 95.25
+  shipping_cost: 29.86
+- order_id: 114
+  customer_id: 371
+  order_date: '2025-08-11 09:46:41'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 72.91
+  discount_amount: 78.32
+  shipping_cost: 9.16
+- order_id: 115
+  customer_id: 537
+  order_date: '2025-03-11 11:08:01'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 131.25
+  discount_amount: 54.48
+  shipping_cost: 5.94
+- order_id: 116
+  customer_id: 4
+  order_date: '2025-03-16 20:43:39'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 786.17
+  discount_amount: 34.76
+  shipping_cost: 32.59
+- order_id: 117
+  customer_id: 314
+  order_date: '2025-06-09 23:07:43'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 571.49
+  discount_amount: 80.71
+  shipping_cost: 18.29
+- order_id: 118
+  customer_id: 460
+  order_date: '2024-12-12 20:13:23'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 1689.2
+  discount_amount: 30.1
+  shipping_cost: 31.33
+- order_id: 119
+  customer_id: 55
+  order_date: '2025-03-01 16:24:14'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 1230.81
+  discount_amount: 37.99
+  shipping_cost: 3.37
+- order_id: 120
+  customer_id: 287
+  order_date: '2025-08-22 18:29:55'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 330.49
+  discount_amount: 74.17
+  shipping_cost: 9.91
+- order_id: 121
+  customer_id: 333
+  order_date: '2025-02-08 07:42:34'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 1667.32
+  discount_amount: 54.78
+  shipping_cost: 17.65
+- order_id: 122
+  customer_id: 51
+  order_date: '2025-02-10 05:53:59'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 1307.72
+  discount_amount: 26.45
+  shipping_cost: 23.17
+- order_id: 123
+  customer_id: 824
+  order_date: '2025-01-05 04:34:21'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 248.36
+  discount_amount: 98.62
+  shipping_cost: 32.13
+- order_id: 124
+  customer_id: 409
+  order_date: '2025-09-02 17:37:03'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 1975.28
+  discount_amount: 33.13
+  shipping_cost: 31.94
+- order_id: 125
+  customer_id: 261
+  order_date: '2025-05-11 07:11:55'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 869.13
+  discount_amount: 91.92
+  shipping_cost: 10.24
+- order_id: 126
+  customer_id: 611
+  order_date: '2025-04-14 14:26:46'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 86.24
+  discount_amount: 73.08
+  shipping_cost: 27.17
+- order_id: 127
+  customer_id: 639
+  order_date: '2025-09-12 10:56:54'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 507.81
+  discount_amount: 79.64
+  shipping_cost: 10.58
+- order_id: 128
+  customer_id: 384
+  order_date: '2025-03-03 03:59:37'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 762.15
+  discount_amount: 10.4
+  shipping_cost: 6.56
+- order_id: 129
+  customer_id: 67
+  order_date: '2024-11-19 11:05:31'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 1225.15
+  discount_amount: 0.42
+  shipping_cost: 23.65
+- order_id: 130
+  customer_id: 971
+  order_date: '2024-11-21 22:01:31'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 1220.74
+  discount_amount: 66.48
+  shipping_cost: 11.88
+- order_id: 131
+  customer_id: 727
+  order_date: '2025-04-08 04:51:46'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 1163.55
+  discount_amount: 88.35
+  shipping_cost: 22.54
+- order_id: 132
+  customer_id: 920
+  order_date: '2024-12-11 23:18:34'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 1065.83
+  discount_amount: 82.84
+  shipping_cost: 24.94
+- order_id: 133
+  customer_id: 972
+  order_date: '2024-10-18 04:05:57'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 1915.77
+  discount_amount: 76.9
+  shipping_cost: 32.61
+- order_id: 134
+  customer_id: 576
+  order_date: '2025-04-24 08:51:14'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 1543.34
+  discount_amount: 48.04
+  shipping_cost: 4.69
+- order_id: 135
+  customer_id: 512
+  order_date: '2025-04-17 20:09:46'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 1273.58
+  discount_amount: 84.79
+  shipping_cost: 13.02
+- order_id: 136
+  customer_id: 171
+  order_date: '2025-07-25 10:43:01'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 735.56
+  discount_amount: 60.81
+  shipping_cost: 28.31
+- order_id: 137
+  customer_id: 499
+  order_date: '2025-06-03 12:37:04'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 755.21
+  discount_amount: 9.26
+  shipping_cost: 16.38
+- order_id: 138
+  customer_id: 199
+  order_date: '2025-08-20 22:59:47'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 435.98
+  discount_amount: 20.67
+  shipping_cost: 7.38
+- order_id: 139
+  customer_id: 914
+  order_date: '2024-10-09 18:13:01'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 1015.17
+  discount_amount: 13.47
+  shipping_cost: 2.8
+- order_id: 140
+  customer_id: 711
+  order_date: '2024-10-25 07:47:57'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 951.87
+  discount_amount: 12.16
+  shipping_cost: 22.09
+- order_id: 141
+  customer_id: 622
+  order_date: '2024-10-13 15:09:52'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 456.95
+  discount_amount: 27.11
+  shipping_cost: 14.19
+- order_id: 142
+  customer_id: 518
+  order_date: '2025-01-11 16:31:38'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 1406.77
+  discount_amount: 67.18
+  shipping_cost: 16.58
+- order_id: 143
+  customer_id: 462
+  order_date: '2025-03-27 06:58:54'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 1938.72
+  discount_amount: 27.13
+  shipping_cost: 2.46
+- order_id: 144
+  customer_id: 817
+  order_date: '2024-11-04 20:50:19'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 1315.53
+  discount_amount: 42.35
+  shipping_cost: 20.64
+- order_id: 145
+  customer_id: 376
+  order_date: '2025-07-28 13:32:59'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 1986.04
+  discount_amount: 21.65
+  shipping_cost: 6.75
+- order_id: 146
+  customer_id: 814
+  order_date: '2025-09-17 22:42:55'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 810.76
+  discount_amount: 31.19
+  shipping_cost: 2.03
+- order_id: 147
+  customer_id: 983
+  order_date: '2025-02-24 11:24:57'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 1166.79
+  discount_amount: 28.09
+  shipping_cost: 17.3
+- order_id: 148
+  customer_id: 826
+  order_date: '2025-02-05 03:25:24'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 1094.5
+  discount_amount: 35.33
+  shipping_cost: 0.37
+- order_id: 149
+  customer_id: 415
+  order_date: '2025-03-19 02:41:32'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 1858.73
+  discount_amount: 47.27
+  shipping_cost: 12.11
+- order_id: 150
+  customer_id: 174
+  order_date: '2025-05-07 11:42:59'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 134.05
+  discount_amount: 78.74
+  shipping_cost: 13.76
+- order_id: 151
+  customer_id: 668
+  order_date: '2025-04-14 23:39:03'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 1814.61
+  discount_amount: 50.76
+  shipping_cost: 25.9
+- order_id: 152
+  customer_id: 112
+  order_date: '2025-09-16 18:11:50'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 1225.07
+  discount_amount: 73.9
+  shipping_cost: 3.61
+- order_id: 153
+  customer_id: 999
+  order_date: '2024-11-20 22:12:54'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 323.15
+  discount_amount: 34.73
+  shipping_cost: 8.52
+- order_id: 154
+  customer_id: 587
+  order_date: '2025-03-12 13:24:45'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 1979.66
+  discount_amount: 78.92
+  shipping_cost: 3.96
+- order_id: 155
+  customer_id: 411
+  order_date: '2024-12-20 06:06:51'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 1888.29
+  discount_amount: 51.61
+  shipping_cost: 5.49
+- order_id: 156
+  customer_id: 925
+  order_date: '2025-06-28 11:55:56'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 1824.37
+  discount_amount: 46.85
+  shipping_cost: 8.23
+- order_id: 157
+  customer_id: 897
+  order_date: '2024-10-08 15:04:55'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 62.84
+  discount_amount: 4.77
+  shipping_cost: 12.58
+- order_id: 158
+  customer_id: 89
+  order_date: '2025-06-30 19:04:15'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 1745.84
+  discount_amount: 55.06
+  shipping_cost: 31.14
+- order_id: 159
+  customer_id: 352
+  order_date: '2025-01-30 20:39:05'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 990.11
+  discount_amount: 45.02
+  shipping_cost: 0.25
+- order_id: 160
+  customer_id: 755
+  order_date: '2024-12-19 11:56:49'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 1803.81
+  discount_amount: 58.54
+  shipping_cost: 0.22
+- order_id: 161
+  customer_id: 562
+  order_date: '2025-01-16 16:08:58'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 1190.44
+  discount_amount: 56.23
+  shipping_cost: 14.17
+- order_id: 162
+  customer_id: 413
+  order_date: '2024-11-30 04:22:54'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 317.92
+  discount_amount: 88.48
+  shipping_cost: 16.96
+- order_id: 163
+  customer_id: 651
+  order_date: '2024-10-16 17:24:30'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 1516.8
+  discount_amount: 93.75
+  shipping_cost: 2.41
+- order_id: 164
+  customer_id: 670
+  order_date: '2025-01-12 04:40:33'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 530.94
+  discount_amount: 56.94
+  shipping_cost: 25.31
+- order_id: 165
+  customer_id: 117
+  order_date: '2025-07-04 10:17:19'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 923.82
+  discount_amount: 87.09
+  shipping_cost: 10.26
+- order_id: 166
+  customer_id: 834
+  order_date: '2025-06-24 14:47:51'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 375.93
+  discount_amount: 12.5
+  shipping_cost: 7.12
+- order_id: 167
+  customer_id: 335
+  order_date: '2025-08-10 09:05:06'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 1842.96
+  discount_amount: 14.45
+  shipping_cost: 30.05
+- order_id: 168
+  customer_id: 308
+  order_date: '2025-04-15 05:07:23'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 597.62
+  discount_amount: 44.82
+  shipping_cost: 0.69
+- order_id: 169
+  customer_id: 393
+  order_date: '2024-10-25 14:37:07'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 764.72
+  discount_amount: 38.66
+  shipping_cost: 31.89
+- order_id: 170
+  customer_id: 901
+  order_date: '2025-08-09 00:17:03'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 1197.49
+  discount_amount: 30.85
+  shipping_cost: 11.68
+- order_id: 171
+  customer_id: 318
+  order_date: '2025-01-17 18:44:30'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 1429.27
+  discount_amount: 39.25
+  shipping_cost: 14.21
+- order_id: 172
+  customer_id: 102
+  order_date: '2025-04-22 12:09:43'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 1870.87
+  discount_amount: 60.86
+  shipping_cost: 4.55
+- order_id: 173
+  customer_id: 921
+  order_date: '2025-03-28 06:08:53'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 1486.29
+  discount_amount: 37.87
+  shipping_cost: 30.71
+- order_id: 174
+  customer_id: 361
+  order_date: '2025-05-20 19:18:49'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 614.64
+  discount_amount: 31.87
+  shipping_cost: 24.19
+- order_id: 175
+  customer_id: 584
+  order_date: '2025-04-11 22:14:18'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 1387.24
+  discount_amount: 30.49
+  shipping_cost: 16.42
+- order_id: 176
+  customer_id: 50
+  order_date: '2025-07-19 20:58:35'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 1673.25
+  discount_amount: 30.79
+  shipping_cost: 36.89
+- order_id: 177
+  customer_id: 503
+  order_date: '2025-04-13 19:21:55'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 879.39
+  discount_amount: 59.1
+  shipping_cost: 22.07
+- order_id: 178
+  customer_id: 599
+  order_date: '2024-10-04 09:12:49'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 684.5
+  discount_amount: 82.42
+  shipping_cost: 24.67
+- order_id: 179
+  customer_id: 253
+  order_date: '2025-09-19 23:33:07'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 993.74
+  discount_amount: 15.57
+  shipping_cost: 10.31
+- order_id: 180
+  customer_id: 772
+  order_date: '2025-05-27 09:06:56'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 1182.1
+  discount_amount: 83.17
+  shipping_cost: 27.18
+- order_id: 181
+  customer_id: 167
+  order_date: '2024-12-06 01:10:19'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 415.74
+  discount_amount: 31.87
+  shipping_cost: 8.79
+- order_id: 182
+  customer_id: 928
+  order_date: '2025-04-05 10:16:00'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 601.45
+  discount_amount: 27.48
+  shipping_cost: 33.98
+- order_id: 183
+  customer_id: 20
+  order_date: '2025-03-29 04:11:23'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 1947.98
+  discount_amount: 98.99
+  shipping_cost: 4.45
+- order_id: 184
+  customer_id: 98
+  order_date: '2025-09-07 12:32:19'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 526.57
+  discount_amount: 16.81
+  shipping_cost: 38.15
+- order_id: 185
+  customer_id: 537
+  order_date: '2025-01-16 19:17:43'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 1448.75
+  discount_amount: 10.94
+  shipping_cost: 28.04
+- order_id: 186
+  customer_id: 117
+  order_date: '2024-12-20 18:31:05'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 527.17
+  discount_amount: 79.42
+  shipping_cost: 30.16
+- order_id: 187
+  customer_id: 447
+  order_date: '2025-05-08 01:21:01'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 1099.28
+  discount_amount: 31.17
+  shipping_cost: 16.54
+- order_id: 188
+  customer_id: 784
+  order_date: '2024-11-13 16:43:03'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 1696.76
+  discount_amount: 40.88
+  shipping_cost: 33.58
+- order_id: 189
+  customer_id: 77
+  order_date: '2025-09-14 16:40:31'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 783.75
+  discount_amount: 24.19
+  shipping_cost: 7.84
+- order_id: 190
+  customer_id: 892
+  order_date: '2025-04-04 06:15:34'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 406.28
+  discount_amount: 88.79
+  shipping_cost: 3.32
+- order_id: 191
+  customer_id: 309
+  order_date: '2025-03-11 07:27:26'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 753.83
+  discount_amount: 82.87
+  shipping_cost: 39.08
+- order_id: 192
+  customer_id: 95
+  order_date: '2025-09-21 20:40:40'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 1219.86
+  discount_amount: 22.41
+  shipping_cost: 38.79
+- order_id: 193
+  customer_id: 580
+  order_date: '2025-04-03 17:34:29'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 1347.27
+  discount_amount: 46.48
+  shipping_cost: 0.64
+- order_id: 194
+  customer_id: 657
+  order_date: '2025-04-19 00:46:38'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 926.28
+  discount_amount: 65.68
+  shipping_cost: 18.45
+- order_id: 195
+  customer_id: 173
+  order_date: '2025-06-14 12:19:54'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 927.27
+  discount_amount: 76.3
+  shipping_cost: 4.78
+- order_id: 196
+  customer_id: 568
+  order_date: '2025-08-10 12:44:15'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 1364.9
+  discount_amount: 30.89
+  shipping_cost: 26.72
+- order_id: 197
+  customer_id: 467
+  order_date: '2025-08-31 18:11:17'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 1220.16
+  discount_amount: 51.03
+  shipping_cost: 10.19
+- order_id: 198
+  customer_id: 629
+  order_date: '2025-02-11 13:07:10'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 758.58
+  discount_amount: 99.09
+  shipping_cost: 21.06
+- order_id: 199
+  customer_id: 679
+  order_date: '2025-06-21 23:02:46'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 805.04
+  discount_amount: 6.01
+  shipping_cost: 27.85
+- order_id: 200
+  customer_id: 82
+  order_date: '2024-10-05 13:03:12'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 969.46
+  discount_amount: 38.32
+  shipping_cost: 38.12
+- order_id: 201
+  customer_id: 544
+  order_date: '2025-01-24 01:59:51'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 1754.73
+  discount_amount: 37.18
+  shipping_cost: 28.89
+- order_id: 202
+  customer_id: 225
+  order_date: '2025-01-31 08:28:42'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 169.8
+  discount_amount: 63.39
+  shipping_cost: 25.51
+- order_id: 203
+  customer_id: 941
+  order_date: '2024-12-30 12:15:21'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 1603.96
+  discount_amount: 16.4
+  shipping_cost: 34.01
+- order_id: 204
+  customer_id: 532
+  order_date: '2025-09-21 14:16:01'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 1832.21
+  discount_amount: 33.95
+  shipping_cost: 31.18
+- order_id: 205
+  customer_id: 893
+  order_date: '2025-02-08 06:04:04'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 947.51
+  discount_amount: 78.13
+  shipping_cost: 21.94
+- order_id: 206
+  customer_id: 319
+  order_date: '2024-11-30 01:30:34'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 1341.69
+  discount_amount: 57.66
+  shipping_cost: 29.93
+- order_id: 207
+  customer_id: 188
+  order_date: '2025-09-03 15:00:59'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 1390.95
+  discount_amount: 92.87
+  shipping_cost: 31.6
+- order_id: 208
+  customer_id: 798
+  order_date: '2024-11-04 02:43:17'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 506.85
+  discount_amount: 43.34
+  shipping_cost: 23.3
+- order_id: 209
+  customer_id: 511
+  order_date: '2024-12-04 12:43:41'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 1320.56
+  discount_amount: 37.7
+  shipping_cost: 0.4
+- order_id: 210
+  customer_id: 174
+  order_date: '2025-07-21 19:36:07'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 698.85
+  discount_amount: 38.68
+  shipping_cost: 9.34
+- order_id: 211
+  customer_id: 880
+  order_date: '2024-11-23 17:03:56'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 671.01
+  discount_amount: 7.64
+  shipping_cost: 28.47
+- order_id: 212
+  customer_id: 985
+  order_date: '2025-03-07 21:00:52'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 174.23
+  discount_amount: 90.12
+  shipping_cost: 26.92
+- order_id: 213
+  customer_id: 661
+  order_date: '2025-04-24 23:41:48'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 1724.97
+  discount_amount: 11.78
+  shipping_cost: 38.95
+- order_id: 214
+  customer_id: 638
+  order_date: '2025-02-24 13:47:19'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 1367.37
+  discount_amount: 16.64
+  shipping_cost: 24.76
+- order_id: 215
+  customer_id: 706
+  order_date: '2025-05-16 21:31:56'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 1770.03
+  discount_amount: 81.9
+  shipping_cost: 7.78
+- order_id: 216
+  customer_id: 515
+  order_date: '2025-03-19 05:31:01'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 512.34
+  discount_amount: 79.97
+  shipping_cost: 10.37
+- order_id: 217
+  customer_id: 439
+  order_date: '2024-11-25 04:45:40'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 1114.59
+  discount_amount: 4.69
+  shipping_cost: 15.62
+- order_id: 218
+  customer_id: 358
+  order_date: '2024-10-21 20:35:43'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 1336.64
+  discount_amount: 81.45
+  shipping_cost: 2.16
+- order_id: 219
+  customer_id: 842
+  order_date: '2024-12-17 01:14:02'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 370.29
+  discount_amount: 35.65
+  shipping_cost: 4.55
+- order_id: 220
+  customer_id: 736
+  order_date: '2024-12-04 05:18:02'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 215.62
+  discount_amount: 12.66
+  shipping_cost: 3.74
+- order_id: 221
+  customer_id: 819
+  order_date: '2025-08-11 09:55:58'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 818.33
+  discount_amount: 30.66
+  shipping_cost: 28.57
+- order_id: 222
+  customer_id: 453
+  order_date: '2025-05-04 18:49:45'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 1554.6
+  discount_amount: 13.44
+  shipping_cost: 9.92
+- order_id: 223
+  customer_id: 821
+  order_date: '2025-08-23 16:24:47'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 806.63
+  discount_amount: 85.13
+  shipping_cost: 30.92
+- order_id: 224
+  customer_id: 25
+  order_date: '2025-07-20 21:15:04'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 875.78
+  discount_amount: 76.28
+  shipping_cost: 5.66
+- order_id: 225
+  customer_id: 793
+  order_date: '2025-01-09 05:37:49'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 1468.47
+  discount_amount: 47.84
+  shipping_cost: 28.88
+- order_id: 226
+  customer_id: 761
+  order_date: '2025-05-05 16:28:44'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 1490.59
+  discount_amount: 80.73
+  shipping_cost: 32.97
+- order_id: 227
+  customer_id: 406
+  order_date: '2024-12-31 09:30:01'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 969.59
+  discount_amount: 14.09
+  shipping_cost: 20.62
+- order_id: 228
+  customer_id: 785
+  order_date: '2024-11-20 15:48:53'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 1161.28
+  discount_amount: 37.39
+  shipping_cost: 31.94
+- order_id: 229
+  customer_id: 974
+  order_date: '2025-09-12 07:50:39'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 1135.34
+  discount_amount: 11.79
+  shipping_cost: 19.18
+- order_id: 230
+  customer_id: 231
+  order_date: '2025-09-14 18:20:17'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 247.49
+  discount_amount: 9.81
+  shipping_cost: 11.2
+- order_id: 231
+  customer_id: 106
+  order_date: '2024-10-26 19:43:45'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 579.86
+  discount_amount: 51.76
+  shipping_cost: 22.12
+- order_id: 232
+  customer_id: 208
+  order_date: '2025-02-16 07:56:05'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 1287.38
+  discount_amount: 60.42
+  shipping_cost: 0.87
+- order_id: 233
+  customer_id: 286
+  order_date: '2025-09-11 06:59:26'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 1253.24
+  discount_amount: 87.67
+  shipping_cost: 17.33
+- order_id: 234
+  customer_id: 304
+  order_date: '2024-12-13 11:04:53'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 1759.74
+  discount_amount: 67.26
+  shipping_cost: 19.31
+- order_id: 235
+  customer_id: 533
+  order_date: '2025-03-12 23:34:15'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 523.82
+  discount_amount: 45.07
+  shipping_cost: 1.91
+- order_id: 236
+  customer_id: 188
+  order_date: '2025-01-31 15:26:01'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 1263.76
+  discount_amount: 19.16
+  shipping_cost: 19.43
+- order_id: 237
+  customer_id: 560
+  order_date: '2025-03-21 16:42:13'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 1859.19
+  discount_amount: 36.53
+  shipping_cost: 27.94
+- order_id: 238
+  customer_id: 855
+  order_date: '2025-03-20 10:30:15'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 1923.01
+  discount_amount: 37.66
+  shipping_cost: 9.95
+- order_id: 239
+  customer_id: 617
+  order_date: '2025-08-02 02:45:26'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 583.5
+  discount_amount: 30.1
+  shipping_cost: 12.78
+- order_id: 240
+  customer_id: 233
+  order_date: '2025-04-23 15:32:28'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 1879.22
+  discount_amount: 72.38
+  shipping_cost: 39.34
+- order_id: 241
+  customer_id: 920
+  order_date: '2024-12-12 11:42:42'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 1439.96
+  discount_amount: 10.87
+  shipping_cost: 23.64
+- order_id: 242
+  customer_id: 386
+  order_date: '2025-09-10 14:48:10'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 881.74
+  discount_amount: 45.89
+  shipping_cost: 2.22
+- order_id: 243
+  customer_id: 611
+  order_date: '2024-11-21 06:35:51'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 933.62
+  discount_amount: 85.38
+  shipping_cost: 12.11
+- order_id: 244
+  customer_id: 843
+  order_date: '2025-09-22 03:35:00'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 316.47
+  discount_amount: 81.99
+  shipping_cost: 22.11
+- order_id: 245
+  customer_id: 281
+  order_date: '2025-06-09 16:39:26'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 1460.26
+  discount_amount: 74.45
+  shipping_cost: 9.71
+- order_id: 246
+  customer_id: 948
+  order_date: '2025-08-06 00:30:02'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 976.37
+  discount_amount: 97.49
+  shipping_cost: 19.91
+- order_id: 247
+  customer_id: 100
+  order_date: '2025-01-17 22:03:58'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 1036.64
+  discount_amount: 52.84
+  shipping_cost: 32.5
+- order_id: 248
+  customer_id: 329
+  order_date: '2025-06-01 07:04:38'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 130.92
+  discount_amount: 25.51
+  shipping_cost: 9.36
+- order_id: 249
+  customer_id: 33
+  order_date: '2025-07-12 17:24:56'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 1574.72
+  discount_amount: 39.86
+  shipping_cost: 23.48
+- order_id: 250
+  customer_id: 684
+  order_date: '2025-08-13 15:04:37'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 1172.04
+  discount_amount: 82.52
+  shipping_cost: 15.77
+- order_id: 251
+  customer_id: 258
+  order_date: '2024-12-02 06:30:36'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 937.45
+  discount_amount: 52.52
+  shipping_cost: 7.16
+- order_id: 252
+  customer_id: 242
+  order_date: '2025-07-31 21:07:13'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 375.59
+  discount_amount: 3.04
+  shipping_cost: 39.91
+- order_id: 253
+  customer_id: 557
+  order_date: '2025-07-04 17:57:25'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 1552.52
+  discount_amount: 63.19
+  shipping_cost: 26.89
+- order_id: 254
+  customer_id: 484
+  order_date: '2025-02-01 14:53:32'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 1734.6
+  discount_amount: 99.24
+  shipping_cost: 15.25
+- order_id: 255
+  customer_id: 727
+  order_date: '2025-04-29 12:56:01'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 893.68
+  discount_amount: 90.95
+  shipping_cost: 16.23
+- order_id: 256
+  customer_id: 974
+  order_date: '2025-07-23 17:51:33'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 990.37
+  discount_amount: 69.65
+  shipping_cost: 9.34
+- order_id: 257
+  customer_id: 760
+  order_date: '2025-02-21 11:47:21'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 866.65
+  discount_amount: 84.3
+  shipping_cost: 39.63
+- order_id: 258
+  customer_id: 906
+  order_date: '2025-01-16 12:42:14'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 1460.8
+  discount_amount: 93.24
+  shipping_cost: 4.3
+- order_id: 259
+  customer_id: 853
+  order_date: '2025-07-21 22:00:23'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 238.5
+  discount_amount: 48.5
+  shipping_cost: 21.95
+- order_id: 260
+  customer_id: 796
+  order_date: '2024-11-26 15:03:14'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 1729.32
+  discount_amount: 56.43
+  shipping_cost: 2.35
+- order_id: 261
+  customer_id: 332
+  order_date: '2025-08-19 21:35:06'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 959.98
+  discount_amount: 60.25
+  shipping_cost: 23.99
+- order_id: 262
+  customer_id: 266
+  order_date: '2025-09-20 00:20:44'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 1473.39
+  discount_amount: 54.83
+  shipping_cost: 20.12
+- order_id: 263
+  customer_id: 830
+  order_date: '2025-09-11 15:09:03'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 524.59
+  discount_amount: 73.78
+  shipping_cost: 12.64
+- order_id: 264
+  customer_id: 617
+  order_date: '2025-05-04 20:26:12'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 1144.4
+  discount_amount: 4.58
+  shipping_cost: 5.98
+- order_id: 265
+  customer_id: 215
+  order_date: '2025-08-20 17:10:08'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 92.49
+  discount_amount: 97.83
+  shipping_cost: 5.56
+- order_id: 266
+  customer_id: 845
+  order_date: '2024-09-30 13:14:56'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 1742.82
+  discount_amount: 55.47
+  shipping_cost: 36.11
+- order_id: 267
+  customer_id: 635
+  order_date: '2025-06-07 02:47:53'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 1598.41
+  discount_amount: 31.0
+  shipping_cost: 33.6
+- order_id: 268
+  customer_id: 403
+  order_date: '2025-01-05 21:45:32'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 1740.4
+  discount_amount: 10.35
+  shipping_cost: 15.47
+- order_id: 269
+  customer_id: 346
+  order_date: '2025-05-29 03:21:16'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 1541.52
+  discount_amount: 68.76
+  shipping_cost: 32.42
+- order_id: 270
+  customer_id: 50
+  order_date: '2025-01-27 01:12:16'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 1206.83
+  discount_amount: 26.52
+  shipping_cost: 5.48
+- order_id: 271
+  customer_id: 431
+  order_date: '2025-02-11 15:14:34'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 992.19
+  discount_amount: 95.25
+  shipping_cost: 1.02
+- order_id: 272
+  customer_id: 835
+  order_date: '2024-12-16 13:24:23'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 1999.36
+  discount_amount: 89.81
+  shipping_cost: 38.57
+- order_id: 273
+  customer_id: 210
+  order_date: '2025-03-09 05:21:31'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 1901.16
+  discount_amount: 47.76
+  shipping_cost: 29.25
+- order_id: 274
+  customer_id: 882
+  order_date: '2024-11-07 19:53:32'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 1256.7
+  discount_amount: 33.25
+  shipping_cost: 9.04
+- order_id: 275
+  customer_id: 871
+  order_date: '2024-10-26 15:34:33'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 856.67
+  discount_amount: 71.32
+  shipping_cost: 1.19
+- order_id: 276
+  customer_id: 943
+  order_date: '2024-09-30 22:06:38'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 1331.18
+  discount_amount: 70.26
+  shipping_cost: 4.98
+- order_id: 277
+  customer_id: 16
+  order_date: '2024-10-21 00:58:19'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 311.95
+  discount_amount: 89.97
+  shipping_cost: 39.59
+- order_id: 278
+  customer_id: 690
+  order_date: '2025-08-07 13:15:45'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 828.71
+  discount_amount: 40.27
+  shipping_cost: 20.04
+- order_id: 279
+  customer_id: 992
+  order_date: '2025-05-06 05:14:00'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 987.65
+  discount_amount: 34.11
+  shipping_cost: 31.92
+- order_id: 280
+  customer_id: 735
+  order_date: '2025-04-27 03:46:18'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 968.66
+  discount_amount: 84.77
+  shipping_cost: 22.27
+- order_id: 281
+  customer_id: 126
+  order_date: '2024-12-31 17:25:18'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 909.74
+  discount_amount: 56.64
+  shipping_cost: 36.65
+- order_id: 282
+  customer_id: 962
+  order_date: '2025-03-24 01:54:39'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 253.78
+  discount_amount: 67.42
+  shipping_cost: 23.16
+- order_id: 283
+  customer_id: 180
+  order_date: '2024-11-02 10:38:31'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 100.04
+  discount_amount: 67.09
+  shipping_cost: 32.68
+- order_id: 284
+  customer_id: 897
+  order_date: '2025-08-14 04:57:09'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 98.85
+  discount_amount: 3.2
+  shipping_cost: 12.29
+- order_id: 285
+  customer_id: 866
+  order_date: '2025-02-10 09:09:15'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 1215.01
+  discount_amount: 65.89
+  shipping_cost: 28.36
+- order_id: 286
+  customer_id: 68
+  order_date: '2025-05-27 04:24:05'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 1002.59
+  discount_amount: 50.16
+  shipping_cost: 10.37
+- order_id: 287
+  customer_id: 600
+  order_date: '2025-03-31 14:43:49'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 173.41
+  discount_amount: 84.13
+  shipping_cost: 25.98
+- order_id: 288
+  customer_id: 737
+  order_date: '2025-07-02 13:06:04'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 331.8
+  discount_amount: 96.09
+  shipping_cost: 28.64
+- order_id: 289
+  customer_id: 881
+  order_date: '2025-04-16 22:21:47'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 993.5
+  discount_amount: 35.92
+  shipping_cost: 31.52
+- order_id: 290
+  customer_id: 652
+  order_date: '2025-07-15 12:38:56'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 537.35
+  discount_amount: 11.08
+  shipping_cost: 13.58
+- order_id: 291
+  customer_id: 783
+  order_date: '2025-07-11 18:33:12'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 666.64
+  discount_amount: 23.11
+  shipping_cost: 39.26
+- order_id: 292
+  customer_id: 908
+  order_date: '2025-09-06 14:43:07'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 1123.07
+  discount_amount: 54.44
+  shipping_cost: 27.42
+- order_id: 293
+  customer_id: 894
+  order_date: '2024-12-12 11:44:18'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 921.41
+  discount_amount: 80.28
+  shipping_cost: 31.74
+- order_id: 294
+  customer_id: 62
+  order_date: '2024-10-03 12:49:28'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 375.96
+  discount_amount: 15.85
+  shipping_cost: 35.67
+- order_id: 295
+  customer_id: 697
+  order_date: '2025-08-26 22:31:33'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 1881.91
+  discount_amount: 15.09
+  shipping_cost: 11.47
+- order_id: 296
+  customer_id: 610
+  order_date: '2025-01-31 10:26:30'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 20.92
+  discount_amount: 3.34
+  shipping_cost: 8.76
+- order_id: 297
+  customer_id: 635
+  order_date: '2025-03-18 15:22:42'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 511.76
+  discount_amount: 15.28
+  shipping_cost: 14.38
+- order_id: 298
+  customer_id: 97
+  order_date: '2025-07-04 14:47:17'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 207.78
+  discount_amount: 10.52
+  shipping_cost: 21.64
+- order_id: 299
+  customer_id: 784
+  order_date: '2025-05-05 14:33:17'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 871.26
+  discount_amount: 11.86
+  shipping_cost: 21.64
+- order_id: 300
+  customer_id: 781
+  order_date: '2025-08-30 13:45:00'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 218.18
+  discount_amount: 73.2
+  shipping_cost: 29.78
+- order_id: 301
+  customer_id: 64
+  order_date: '2024-10-14 05:52:48'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 156.74
+  discount_amount: 43.28
+  shipping_cost: 1.74
+- order_id: 302
+  customer_id: 153
+  order_date: '2025-06-24 20:22:32'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 421.81
+  discount_amount: 43.15
+  shipping_cost: 25.99
+- order_id: 303
+  customer_id: 119
+  order_date: '2025-02-27 04:19:36'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 984.06
+  discount_amount: 94.62
+  shipping_cost: 8.79
+- order_id: 304
+  customer_id: 549
+  order_date: '2024-11-13 04:41:01'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 1224.18
+  discount_amount: 82.88
+  shipping_cost: 3.35
+- order_id: 305
+  customer_id: 178
+  order_date: '2024-12-13 17:37:49'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 1787.72
+  discount_amount: 97.5
+  shipping_cost: 6.94
+- order_id: 306
+  customer_id: 987
+  order_date: '2025-07-15 03:56:16'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 646.6
+  discount_amount: 56.6
+  shipping_cost: 27.94
+- order_id: 307
+  customer_id: 991
+  order_date: '2025-03-15 03:39:40'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 1633.89
+  discount_amount: 86.94
+  shipping_cost: 25.36
+- order_id: 308
+  customer_id: 800
+  order_date: '2025-04-28 04:11:22'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 785.22
+  discount_amount: 96.53
+  shipping_cost: 25.9
+- order_id: 309
+  customer_id: 652
+  order_date: '2025-07-26 13:47:23'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 1991.44
+  discount_amount: 76.32
+  shipping_cost: 22.74
+- order_id: 310
+  customer_id: 360
+  order_date: '2025-06-22 03:26:12'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 847.59
+  discount_amount: 69.49
+  shipping_cost: 39.41
+- order_id: 311
+  customer_id: 781
+  order_date: '2025-01-19 23:34:01'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 1064.41
+  discount_amount: 25.03
+  shipping_cost: 14.75
+- order_id: 312
+  customer_id: 418
+  order_date: '2025-03-14 20:19:43'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 1908.54
+  discount_amount: 69.23
+  shipping_cost: 3.22
+- order_id: 313
+  customer_id: 504
+  order_date: '2024-11-30 03:50:56'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 1391.48
+  discount_amount: 64.95
+  shipping_cost: 34.23
+- order_id: 314
+  customer_id: 48
+  order_date: '2025-06-07 09:39:15'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 1764.26
+  discount_amount: 39.09
+  shipping_cost: 37.01
+- order_id: 315
+  customer_id: 984
+  order_date: '2025-08-09 01:00:05'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 1956.76
+  discount_amount: 64.95
+  shipping_cost: 33.99
+- order_id: 316
+  customer_id: 584
+  order_date: '2025-07-16 12:20:03'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 250.48
+  discount_amount: 32.51
+  shipping_cost: 5.09
+- order_id: 317
+  customer_id: 540
+  order_date: '2025-08-16 17:50:04'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 494.63
+  discount_amount: 29.41
+  shipping_cost: 12.59
+- order_id: 318
+  customer_id: 80
+  order_date: '2025-06-30 02:00:34'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 1843.49
+  discount_amount: 96.77
+  shipping_cost: 8.24
+- order_id: 319
+  customer_id: 887
+  order_date: '2024-12-09 02:53:25'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 1324.96
+  discount_amount: 95.02
+  shipping_cost: 15.07
+- order_id: 320
+  customer_id: 890
+  order_date: '2025-06-08 12:34:40'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 195.1
+  discount_amount: 60.02
+  shipping_cost: 16.25
+- order_id: 321
+  customer_id: 172
+  order_date: '2025-06-27 21:34:09'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 824.94
+  discount_amount: 63.15
+  shipping_cost: 20.31
+- order_id: 322
+  customer_id: 862
+  order_date: '2025-02-13 18:21:54'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 612.09
+  discount_amount: 66.26
+  shipping_cost: 34.51
+- order_id: 323
+  customer_id: 738
+  order_date: '2024-09-30 19:40:07'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 1382.0
+  discount_amount: 77.53
+  shipping_cost: 29.26
+- order_id: 324
+  customer_id: 542
+  order_date: '2025-01-20 16:59:41'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 298.08
+  discount_amount: 64.72
+  shipping_cost: 33.46
+- order_id: 325
+  customer_id: 393
+  order_date: '2025-07-17 16:23:15'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 1278.74
+  discount_amount: 13.91
+  shipping_cost: 15.88
+- order_id: 326
+  customer_id: 966
+  order_date: '2025-07-31 14:07:36'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 417.57
+  discount_amount: 54.19
+  shipping_cost: 36.53
+- order_id: 327
+  customer_id: 978
+  order_date: '2024-11-09 21:44:26'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 1127.91
+  discount_amount: 56.57
+  shipping_cost: 8.33
+- order_id: 328
+  customer_id: 231
+  order_date: '2025-07-18 20:18:18'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 748.59
+  discount_amount: 96.78
+  shipping_cost: 35.88
+- order_id: 329
+  customer_id: 762
+  order_date: '2025-07-06 13:45:28'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 1472.39
+  discount_amount: 78.7
+  shipping_cost: 6.02
+- order_id: 330
+  customer_id: 828
+  order_date: '2025-09-23 22:55:39'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 1837.77
+  discount_amount: 41.03
+  shipping_cost: 30.12
+- order_id: 331
+  customer_id: 67
+  order_date: '2025-09-13 10:51:22'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 695.01
+  discount_amount: 73.93
+  shipping_cost: 23.58
+- order_id: 332
+  customer_id: 264
+  order_date: '2025-06-18 05:37:16'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 963.22
+  discount_amount: 17.44
+  shipping_cost: 20.12
+- order_id: 333
+  customer_id: 244
+  order_date: '2025-07-12 04:12:10'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 635.99
+  discount_amount: 14.71
+  shipping_cost: 31.06
+- order_id: 334
+  customer_id: 237
+  order_date: '2025-02-18 23:38:42'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 1405.79
+  discount_amount: 54.14
+  shipping_cost: 12.58
+- order_id: 335
+  customer_id: 280
+  order_date: '2025-06-08 12:04:43'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 957.06
+  discount_amount: 94.16
+  shipping_cost: 9.33
+- order_id: 336
+  customer_id: 408
+  order_date: '2024-11-25 19:43:27'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 1346.0
+  discount_amount: 23.57
+  shipping_cost: 12.66
+- order_id: 337
+  customer_id: 806
+  order_date: '2024-11-05 07:55:30'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 1941.05
+  discount_amount: 27.65
+  shipping_cost: 9.37
+- order_id: 338
+  customer_id: 884
+  order_date: '2024-11-08 15:37:09'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 1076.89
+  discount_amount: 23.04
+  shipping_cost: 33.87
+- order_id: 339
+  customer_id: 836
+  order_date: '2025-07-13 14:19:23'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 1427.34
+  discount_amount: 63.95
+  shipping_cost: 37.77
+- order_id: 340
+  customer_id: 535
+  order_date: '2024-12-04 01:32:38'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 554.83
+  discount_amount: 30.52
+  shipping_cost: 26.48
+- order_id: 341
+  customer_id: 940
+  order_date: '2025-06-13 17:46:44'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 1760.14
+  discount_amount: 31.27
+  shipping_cost: 17.64
+- order_id: 342
+  customer_id: 19
+  order_date: '2024-10-05 20:53:43'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 1175.52
+  discount_amount: 44.04
+  shipping_cost: 10.76
+- order_id: 343
+  customer_id: 226
+  order_date: '2025-08-03 23:45:20'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 1447.54
+  discount_amount: 15.94
+  shipping_cost: 35.33
+- order_id: 344
+  customer_id: 99
+  order_date: '2025-01-21 12:42:27'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 382.91
+  discount_amount: 95.9
+  shipping_cost: 27.23
+- order_id: 345
+  customer_id: 37
+  order_date: '2025-03-23 23:46:27'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 1041.59
+  discount_amount: 76.82
+  shipping_cost: 2.22
+- order_id: 346
+  customer_id: 148
+  order_date: '2025-09-12 15:15:37'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 1105.46
+  discount_amount: 62.58
+  shipping_cost: 35.69
+- order_id: 347
+  customer_id: 430
+  order_date: '2025-06-09 08:33:08'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 1603.03
+  discount_amount: 5.84
+  shipping_cost: 36.48
+- order_id: 348
+  customer_id: 52
+  order_date: '2024-10-03 19:15:51'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 1516.13
+  discount_amount: 97.59
+  shipping_cost: 23.69
+- order_id: 349
+  customer_id: 327
+  order_date: '2025-08-30 07:40:16'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 1408.43
+  discount_amount: 2.87
+  shipping_cost: 24.74
+- order_id: 350
+  customer_id: 929
+  order_date: '2025-07-21 14:32:26'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 1495.53
+  discount_amount: 60.51
+  shipping_cost: 23.23
+- order_id: 351
+  customer_id: 38
+  order_date: '2024-11-07 13:04:27'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 999.26
+  discount_amount: 66.7
+  shipping_cost: 22.26
+- order_id: 352
+  customer_id: 66
+  order_date: '2024-12-13 15:33:34'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 428.86
+  discount_amount: 6.03
+  shipping_cost: 32.98
+- order_id: 353
+  customer_id: 60
+  order_date: '2024-12-31 12:13:29'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 854.15
+  discount_amount: 85.18
+  shipping_cost: 35.81
+- order_id: 354
+  customer_id: 230
+  order_date: '2025-02-16 00:02:17'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 265.05
+  discount_amount: 30.12
+  shipping_cost: 15.18
+- order_id: 355
+  customer_id: 187
+  order_date: '2025-07-30 09:17:54'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 1234.43
+  discount_amount: 85.92
+  shipping_cost: 2.42
+- order_id: 356
+  customer_id: 961
+  order_date: '2025-03-03 07:11:23'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 331.84
+  discount_amount: 23.6
+  shipping_cost: 32.73
+- order_id: 357
+  customer_id: 936
+  order_date: '2025-06-21 08:23:30'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 1176.58
+  discount_amount: 97.16
+  shipping_cost: 23.92
+- order_id: 358
+  customer_id: 710
+  order_date: '2025-03-19 17:37:59'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 1729.51
+  discount_amount: 22.69
+  shipping_cost: 3.7
+- order_id: 359
+  customer_id: 417
+  order_date: '2024-11-10 18:24:05'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 151.25
+  discount_amount: 82.89
+  shipping_cost: 15.21
+- order_id: 360
+  customer_id: 137
+  order_date: '2024-12-16 10:31:42'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 1525.0
+  discount_amount: 41.88
+  shipping_cost: 32.81
+- order_id: 361
+  customer_id: 494
+  order_date: '2025-04-21 15:56:50'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 60.39
+  discount_amount: 68.93
+  shipping_cost: 37.64
+- order_id: 362
+  customer_id: 762
+  order_date: '2025-04-04 15:16:49'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 1020.49
+  discount_amount: 79.73
+  shipping_cost: 27.22
+- order_id: 363
+  customer_id: 111
+  order_date: '2025-09-03 09:09:18'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 1996.42
+  discount_amount: 58.08
+  shipping_cost: 10.18
+- order_id: 364
+  customer_id: 260
+  order_date: '2025-01-06 20:58:18'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 1086.67
+  discount_amount: 93.94
+  shipping_cost: 4.1
+- order_id: 365
+  customer_id: 913
+  order_date: '2025-08-29 06:27:00'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 404.45
+  discount_amount: 3.79
+  shipping_cost: 6.55
+- order_id: 366
+  customer_id: 167
+  order_date: '2025-04-26 02:27:42'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 1023.57
+  discount_amount: 80.31
+  shipping_cost: 8.98
+- order_id: 367
+  customer_id: 300
+  order_date: '2025-02-02 09:52:21'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 75.07
+  discount_amount: 75.46
+  shipping_cost: 16.73
+- order_id: 368
+  customer_id: 479
+  order_date: '2025-02-28 16:42:06'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 458.7
+  discount_amount: 95.59
+  shipping_cost: 36.19
+- order_id: 369
+  customer_id: 636
+  order_date: '2025-05-31 10:47:46'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 496.5
+  discount_amount: 54.15
+  shipping_cost: 15.65
+- order_id: 370
+  customer_id: 865
+  order_date: '2025-03-26 13:41:29'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 1608.6
+  discount_amount: 23.77
+  shipping_cost: 11.09
+- order_id: 371
+  customer_id: 628
+  order_date: '2024-12-08 02:50:50'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 361.17
+  discount_amount: 1.12
+  shipping_cost: 2.46
+- order_id: 372
+  customer_id: 369
+  order_date: '2024-10-24 03:55:24'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 1080.34
+  discount_amount: 23.53
+  shipping_cost: 20.68
+- order_id: 373
+  customer_id: 959
+  order_date: '2024-11-16 10:56:48'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 842.84
+  discount_amount: 79.65
+  shipping_cost: 8.36
+- order_id: 374
+  customer_id: 87
+  order_date: '2024-10-09 13:45:32'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 1580.92
+  discount_amount: 57.9
+  shipping_cost: 10.97
+- order_id: 375
+  customer_id: 813
+  order_date: '2025-04-24 20:24:53'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 1908.57
+  discount_amount: 74.36
+  shipping_cost: 33.94
+- order_id: 376
+  customer_id: 92
+  order_date: '2024-10-03 12:13:01'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 73.04
+  discount_amount: 97.87
+  shipping_cost: 12.1
+- order_id: 377
+  customer_id: 275
+  order_date: '2024-11-12 07:18:44'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 437.42
+  discount_amount: 3.89
+  shipping_cost: 35.24
+- order_id: 378
+  customer_id: 450
+  order_date: '2025-07-13 16:48:57'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 1701.62
+  discount_amount: 28.43
+  shipping_cost: 39.41
+- order_id: 379
+  customer_id: 63
+  order_date: '2024-11-29 22:12:54'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 519.04
+  discount_amount: 84.64
+  shipping_cost: 14.92
+- order_id: 380
+  customer_id: 562
+  order_date: '2025-05-26 08:09:17'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 1086.95
+  discount_amount: 87.79
+  shipping_cost: 39.54
+- order_id: 381
+  customer_id: 647
+  order_date: '2024-12-11 12:57:22'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 1236.13
+  discount_amount: 40.92
+  shipping_cost: 9.68
+- order_id: 382
+  customer_id: 904
+  order_date: '2025-08-06 21:49:59'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 1198.46
+  discount_amount: 2.05
+  shipping_cost: 33.78
+- order_id: 383
+  customer_id: 909
+  order_date: '2024-12-27 10:19:40'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 149.78
+  discount_amount: 62.68
+  shipping_cost: 6.12
+- order_id: 384
+  customer_id: 211
+  order_date: '2024-11-19 12:21:57'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 265.95
+  discount_amount: 93.81
+  shipping_cost: 38.06
+- order_id: 385
+  customer_id: 792
+  order_date: '2025-02-08 01:40:23'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 1501.59
+  discount_amount: 72.24
+  shipping_cost: 24.65
+- order_id: 386
+  customer_id: 45
+  order_date: '2025-09-27 05:57:35'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 1195.99
+  discount_amount: 92.48
+  shipping_cost: 18.93
+- order_id: 387
+  customer_id: 897
+  order_date: '2025-09-19 00:28:22'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 672.96
+  discount_amount: 0.61
+  shipping_cost: 31.16
+- order_id: 388
+  customer_id: 922
+  order_date: '2025-05-05 23:30:18'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 1616.72
+  discount_amount: 93.29
+  shipping_cost: 6.62
+- order_id: 389
+  customer_id: 89
+  order_date: '2025-04-16 21:35:12'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 226.24
+  discount_amount: 55.72
+  shipping_cost: 19.06
+- order_id: 390
+  customer_id: 376
+  order_date: '2025-09-21 04:36:07'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 686.85
+  discount_amount: 26.82
+  shipping_cost: 37.17
+- order_id: 391
+  customer_id: 948
+  order_date: '2025-04-22 17:37:43'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 432.03
+  discount_amount: 17.02
+  shipping_cost: 8.58
+- order_id: 392
+  customer_id: 226
+  order_date: '2024-11-15 17:39:25'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 1740.26
+  discount_amount: 39.36
+  shipping_cost: 26.06
+- order_id: 393
+  customer_id: 655
+  order_date: '2024-12-02 02:38:44'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 429.62
+  discount_amount: 11.36
+  shipping_cost: 12.15
+- order_id: 394
+  customer_id: 112
+  order_date: '2025-05-26 14:31:29'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 1812.81
+  discount_amount: 80.66
+  shipping_cost: 23.81
+- order_id: 395
+  customer_id: 855
+  order_date: '2025-06-21 07:46:57'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 486.22
+  discount_amount: 73.86
+  shipping_cost: 10.65
+- order_id: 396
+  customer_id: 809
+  order_date: '2024-10-10 13:57:28'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 1053.27
+  discount_amount: 87.47
+  shipping_cost: 39.25
+- order_id: 397
+  customer_id: 766
+  order_date: '2025-08-01 19:24:44'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 1216.37
+  discount_amount: 93.87
+  shipping_cost: 20.62
+- order_id: 398
+  customer_id: 225
+  order_date: '2024-12-03 17:08:37'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 1792.14
+  discount_amount: 83.42
+  shipping_cost: 8.16
+- order_id: 399
+  customer_id: 627
+  order_date: '2024-12-28 12:16:14'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 1950.27
+  discount_amount: 16.77
+  shipping_cost: 9.66
+- order_id: 400
+  customer_id: 994
+  order_date: '2024-10-24 16:27:54'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 1544.91
+  discount_amount: 86.2
+  shipping_cost: 33.33
+- order_id: 401
+  customer_id: 622
+  order_date: '2025-08-09 03:20:38'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 1670.97
+  discount_amount: 97.33
+  shipping_cost: 4.89
+- order_id: 402
+  customer_id: 806
+  order_date: '2025-01-31 03:38:30'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 1598.77
+  discount_amount: 71.42
+  shipping_cost: 25.4
+- order_id: 403
+  customer_id: 568
+  order_date: '2025-04-24 23:12:05'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 1549.93
+  discount_amount: 55.97
+  shipping_cost: 7.63
+- order_id: 404
+  customer_id: 215
+  order_date: '2025-07-21 21:09:00'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 40.13
+  discount_amount: 75.51
+  shipping_cost: 37.94
+- order_id: 405
+  customer_id: 831
+  order_date: '2025-02-19 14:24:09'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 23.32
+  discount_amount: 88.06
+  shipping_cost: 11.84
+- order_id: 406
+  customer_id: 202
+  order_date: '2024-11-06 14:52:20'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 1093.98
+  discount_amount: 61.93
+  shipping_cost: 14.94
+- order_id: 407
+  customer_id: 727
+  order_date: '2025-09-12 12:32:16'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 383.83
+  discount_amount: 86.54
+  shipping_cost: 27.47
+- order_id: 408
+  customer_id: 27
+  order_date: '2024-11-07 22:33:44'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 128.44
+  discount_amount: 89.32
+  shipping_cost: 16.89
+- order_id: 409
+  customer_id: 87
+  order_date: '2024-12-16 01:29:59'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 383.94
+  discount_amount: 87.89
+  shipping_cost: 37.96
+- order_id: 410
+  customer_id: 643
+  order_date: '2025-08-25 10:28:34'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 301.0
+  discount_amount: 78.45
+  shipping_cost: 15.88
+- order_id: 411
+  customer_id: 665
+  order_date: '2024-10-01 04:52:22'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 1462.57
+  discount_amount: 76.81
+  shipping_cost: 31.33
+- order_id: 412
+  customer_id: 420
+  order_date: '2025-09-20 01:44:36'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 842.94
+  discount_amount: 30.85
+  shipping_cost: 34.39
+- order_id: 413
+  customer_id: 791
+  order_date: '2025-08-08 02:46:11'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 1196.87
+  discount_amount: 83.56
+  shipping_cost: 1.5
+- order_id: 414
+  customer_id: 975
+  order_date: '2025-06-05 11:28:03'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 1867.5
+  discount_amount: 52.73
+  shipping_cost: 32.55
+- order_id: 415
+  customer_id: 406
+  order_date: '2025-03-23 23:40:06'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 1722.9
+  discount_amount: 89.67
+  shipping_cost: 11.39
+- order_id: 416
+  customer_id: 344
+  order_date: '2025-08-15 20:34:42'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 1990.35
+  discount_amount: 13.55
+  shipping_cost: 33.44
+- order_id: 417
+  customer_id: 851
+  order_date: '2025-05-09 05:19:38'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 1251.4
+  discount_amount: 21.18
+  shipping_cost: 16.24
+- order_id: 418
+  customer_id: 425
+  order_date: '2025-08-07 17:55:45'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 1971.34
+  discount_amount: 21.92
+  shipping_cost: 39.28
+- order_id: 419
+  customer_id: 173
+  order_date: '2025-04-24 14:06:56'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 548.41
+  discount_amount: 85.36
+  shipping_cost: 2.68
+- order_id: 420
+  customer_id: 618
+  order_date: '2024-12-10 00:20:11'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 1042.37
+  discount_amount: 92.34
+  shipping_cost: 23.4
+- order_id: 421
+  customer_id: 261
+  order_date: '2025-09-23 09:33:20'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 89.29
+  discount_amount: 25.19
+  shipping_cost: 11.54
+- order_id: 422
+  customer_id: 324
+  order_date: '2025-02-15 21:06:50'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 312.4
+  discount_amount: 39.8
+  shipping_cost: 39.6
+- order_id: 423
+  customer_id: 551
+  order_date: '2025-07-28 19:31:21'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 942.13
+  discount_amount: 69.17
+  shipping_cost: 35.66
+- order_id: 424
+  customer_id: 7
+  order_date: '2024-11-29 16:16:30'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 1817.44
+  discount_amount: 68.82
+  shipping_cost: 16.78
+- order_id: 425
+  customer_id: 203
+  order_date: '2025-02-18 14:44:42'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 386.38
+  discount_amount: 78.8
+  shipping_cost: 19.94
+- order_id: 426
+  customer_id: 722
+  order_date: '2025-02-16 14:09:33'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 1308.64
+  discount_amount: 52.82
+  shipping_cost: 21.09
+- order_id: 427
+  customer_id: 970
+  order_date: '2024-10-22 13:41:04'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 211.0
+  discount_amount: 38.52
+  shipping_cost: 20.64
+- order_id: 428
+  customer_id: 344
+  order_date: '2025-05-12 08:38:59'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 447.7
+  discount_amount: 56.46
+  shipping_cost: 12.83
+- order_id: 429
+  customer_id: 315
+  order_date: '2025-09-10 12:53:27'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 1543.67
+  discount_amount: 65.61
+  shipping_cost: 34.06
+- order_id: 430
+  customer_id: 991
+  order_date: '2025-07-29 03:13:58'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 1062.45
+  discount_amount: 30.79
+  shipping_cost: 26.74
+- order_id: 431
+  customer_id: 953
+  order_date: '2025-03-29 17:09:02'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 1809.53
+  discount_amount: 10.44
+  shipping_cost: 5.17
+- order_id: 432
+  customer_id: 829
+  order_date: '2025-01-19 16:48:01'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 828.39
+  discount_amount: 30.75
+  shipping_cost: 27.36
+- order_id: 433
+  customer_id: 376
+  order_date: '2025-06-07 09:59:38'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 49.23
+  discount_amount: 60.56
+  shipping_cost: 29.31
+- order_id: 434
+  customer_id: 115
+  order_date: '2024-10-19 15:03:38'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 433.49
+  discount_amount: 22.97
+  shipping_cost: 28.26
+- order_id: 435
+  customer_id: 845
+  order_date: '2025-03-27 19:08:45'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 1138.61
+  discount_amount: 85.24
+  shipping_cost: 2.34
+- order_id: 436
+  customer_id: 341
+  order_date: '2025-05-01 03:38:22'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 1667.15
+  discount_amount: 69.33
+  shipping_cost: 39.0
+- order_id: 437
+  customer_id: 134
+  order_date: '2025-06-09 14:28:46'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 1194.02
+  discount_amount: 46.89
+  shipping_cost: 38.53
+- order_id: 438
+  customer_id: 464
+  order_date: '2024-11-27 22:56:53'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 938.73
+  discount_amount: 7.92
+  shipping_cost: 1.22
+- order_id: 439
+  customer_id: 456
+  order_date: '2025-07-26 22:22:55'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 1758.31
+  discount_amount: 24.82
+  shipping_cost: 3.79
+- order_id: 440
+  customer_id: 716
+  order_date: '2025-01-24 05:13:14'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 506.75
+  discount_amount: 72.48
+  shipping_cost: 8.38
+- order_id: 441
+  customer_id: 9
+  order_date: '2025-08-22 03:33:16'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 1786.44
+  discount_amount: 96.74
+  shipping_cost: 21.02
+- order_id: 442
+  customer_id: 182
+  order_date: '2024-11-24 13:01:56'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 317.43
+  discount_amount: 59.62
+  shipping_cost: 32.32
+- order_id: 443
+  customer_id: 213
+  order_date: '2025-04-18 10:56:21'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 1129.19
+  discount_amount: 41.57
+  shipping_cost: 2.68
+- order_id: 444
+  customer_id: 553
+  order_date: '2024-12-01 16:27:20'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 916.77
+  discount_amount: 53.16
+  shipping_cost: 26.59
+- order_id: 445
+  customer_id: 672
+  order_date: '2025-06-15 06:51:05'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 855.81
+  discount_amount: 77.9
+  shipping_cost: 24.45
+- order_id: 446
+  customer_id: 433
+  order_date: '2025-04-16 22:39:27'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 421.39
+  discount_amount: 15.35
+  shipping_cost: 14.32
+- order_id: 447
+  customer_id: 416
+  order_date: '2024-11-07 19:47:51'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 1281.18
+  discount_amount: 23.07
+  shipping_cost: 12.56
+- order_id: 448
+  customer_id: 956
+  order_date: '2025-03-10 19:50:51'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 1450.98
+  discount_amount: 70.18
+  shipping_cost: 3.36
+- order_id: 449
+  customer_id: 180
+  order_date: '2025-04-19 03:09:19'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 536.03
+  discount_amount: 43.13
+  shipping_cost: 38.36
+- order_id: 450
+  customer_id: 684
+  order_date: '2025-05-08 07:49:51'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 220.83
+  discount_amount: 68.88
+  shipping_cost: 4.04
+- order_id: 451
+  customer_id: 22
+  order_date: '2024-11-22 21:21:39'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 1762.95
+  discount_amount: 90.27
+  shipping_cost: 32.27
+- order_id: 452
+  customer_id: 370
+  order_date: '2025-03-04 13:51:10'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 1589.86
+  discount_amount: 26.69
+  shipping_cost: 34.58
+- order_id: 453
+  customer_id: 687
+  order_date: '2024-12-20 12:02:56'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 112.98
+  discount_amount: 27.13
+  shipping_cost: 29.1
+- order_id: 454
+  customer_id: 156
+  order_date: '2024-10-16 12:36:19'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 1795.34
+  discount_amount: 34.27
+  shipping_cost: 12.45
+- order_id: 455
+  customer_id: 308
+  order_date: '2025-05-20 03:58:34'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 104.09
+  discount_amount: 45.62
+  shipping_cost: 36.36
+- order_id: 456
+  customer_id: 409
+  order_date: '2025-08-18 00:32:34'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 1632.7
+  discount_amount: 83.59
+  shipping_cost: 29.48
+- order_id: 457
+  customer_id: 852
+  order_date: '2025-09-25 23:19:46'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 48.72
+  discount_amount: 21.28
+  shipping_cost: 35.39
+- order_id: 458
+  customer_id: 632
+  order_date: '2025-09-26 19:32:54'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 459.45
+  discount_amount: 5.78
+  shipping_cost: 10.04
+- order_id: 459
+  customer_id: 118
+  order_date: '2025-08-02 09:35:54'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 1587.1
+  discount_amount: 93.98
+  shipping_cost: 19.92
+- order_id: 460
+  customer_id: 405
+  order_date: '2025-01-17 13:41:57'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 1647.2
+  discount_amount: 2.24
+  shipping_cost: 19.67
+- order_id: 461
+  customer_id: 738
+  order_date: '2025-09-23 22:30:17'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 552.54
+  discount_amount: 9.34
+  shipping_cost: 17.55
+- order_id: 462
+  customer_id: 302
+  order_date: '2025-03-22 12:24:39'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 211.99
+  discount_amount: 0.32
+  shipping_cost: 16.41
+- order_id: 463
+  customer_id: 76
+  order_date: '2025-07-12 22:56:53'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 806.92
+  discount_amount: 11.56
+  shipping_cost: 29.84
+- order_id: 464
+  customer_id: 942
+  order_date: '2024-10-15 10:23:33'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 73.85
+  discount_amount: 37.18
+  shipping_cost: 35.81
+- order_id: 465
+  customer_id: 153
+  order_date: '2025-07-11 04:26:59'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 74.73
+  discount_amount: 95.64
+  shipping_cost: 19.19
+- order_id: 466
+  customer_id: 634
+  order_date: '2024-11-14 21:49:52'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 1685.25
+  discount_amount: 74.42
+  shipping_cost: 15.95
+- order_id: 467
+  customer_id: 319
+  order_date: '2025-03-03 22:42:52'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 805.63
+  discount_amount: 62.19
+  shipping_cost: 12.55
+- order_id: 468
+  customer_id: 594
+  order_date: '2025-07-08 15:15:58'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 156.41
+  discount_amount: 19.48
+  shipping_cost: 19.66
+- order_id: 469
+  customer_id: 128
+  order_date: '2025-03-14 23:04:39'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 199.4
+  discount_amount: 11.68
+  shipping_cost: 6.35
+- order_id: 470
+  customer_id: 183
+  order_date: '2024-10-24 08:15:08'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 1513.45
+  discount_amount: 87.66
+  shipping_cost: 30.73
+- order_id: 471
+  customer_id: 135
+  order_date: '2025-07-27 22:03:24'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 1371.63
+  discount_amount: 75.66
+  shipping_cost: 12.56
+- order_id: 472
+  customer_id: 954
+  order_date: '2025-07-17 03:38:33'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 813.19
+  discount_amount: 72.25
+  shipping_cost: 13.41
+- order_id: 473
+  customer_id: 249
+  order_date: '2025-05-10 19:19:05'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 1668.55
+  discount_amount: 13.77
+  shipping_cost: 18.72
+- order_id: 474
+  customer_id: 399
+  order_date: '2025-02-25 15:15:53'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 1075.35
+  discount_amount: 67.49
+  shipping_cost: 14.07
+- order_id: 475
+  customer_id: 869
+  order_date: '2025-07-20 10:25:23'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 1919.75
+  discount_amount: 52.39
+  shipping_cost: 1.28
+- order_id: 476
+  customer_id: 921
+  order_date: '2024-10-07 01:10:18'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 1551.97
+  discount_amount: 72.26
+  shipping_cost: 29.34
+- order_id: 477
+  customer_id: 372
+  order_date: '2025-03-05 09:22:32'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 453.26
+  discount_amount: 58.57
+  shipping_cost: 37.71
+- order_id: 478
+  customer_id: 967
+  order_date: '2025-06-14 02:24:11'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 1090.72
+  discount_amount: 76.86
+  shipping_cost: 19.61
+- order_id: 479
+  customer_id: 235
+  order_date: '2025-07-18 01:17:27'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 35.85
+  discount_amount: 15.31
+  shipping_cost: 26.23
+- order_id: 480
+  customer_id: 579
+  order_date: '2025-09-02 08:28:38'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 1238.92
+  discount_amount: 55.48
+  shipping_cost: 39.85
+- order_id: 481
+  customer_id: 496
+  order_date: '2025-06-28 04:19:02'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 1551.96
+  discount_amount: 65.17
+  shipping_cost: 9.34
+- order_id: 482
+  customer_id: 960
+  order_date: '2024-11-10 12:00:17'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 1387.81
+  discount_amount: 39.66
+  shipping_cost: 12.88
+- order_id: 483
+  customer_id: 306
+  order_date: '2025-02-06 21:57:59'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 162.58
+  discount_amount: 90.48
+  shipping_cost: 6.89
+- order_id: 484
+  customer_id: 261
+  order_date: '2025-05-11 17:53:10'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 336.2
+  discount_amount: 49.11
+  shipping_cost: 13.94
+- order_id: 485
+  customer_id: 665
+  order_date: '2024-10-11 09:13:28'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 1695.18
+  discount_amount: 92.94
+  shipping_cost: 4.46
+- order_id: 486
+  customer_id: 846
+  order_date: '2025-03-14 16:41:01'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 1826.5
+  discount_amount: 4.66
+  shipping_cost: 36.21
+- order_id: 487
+  customer_id: 827
+  order_date: '2025-04-02 13:26:46'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 635.59
+  discount_amount: 27.99
+  shipping_cost: 2.4
+- order_id: 488
+  customer_id: 487
+  order_date: '2024-12-08 08:06:27'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 372.54
+  discount_amount: 55.13
+  shipping_cost: 6.89
+- order_id: 489
+  customer_id: 278
+  order_date: '2025-01-14 12:29:45'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 1299.9
+  discount_amount: 0.78
+  shipping_cost: 2.49
+- order_id: 490
+  customer_id: 613
+  order_date: '2025-05-28 19:36:56'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 1766.05
+  discount_amount: 46.33
+  shipping_cost: 25.25
+- order_id: 491
+  customer_id: 572
+  order_date: '2025-03-30 21:02:54'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 276.48
+  discount_amount: 94.17
+  shipping_cost: 11.9
+- order_id: 492
+  customer_id: 147
+  order_date: '2025-07-15 03:45:25'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 394.14
+  discount_amount: 27.01
+  shipping_cost: 3.5
+- order_id: 493
+  customer_id: 239
+  order_date: '2024-10-27 09:23:05'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 1324.05
+  discount_amount: 37.33
+  shipping_cost: 27.55
+- order_id: 494
+  customer_id: 476
+  order_date: '2025-06-15 01:33:03'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 771.19
+  discount_amount: 56.73
+  shipping_cost: 8.6
+- order_id: 495
+  customer_id: 530
+  order_date: '2025-03-25 14:55:33'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 1755.05
+  discount_amount: 64.7
+  shipping_cost: 26.99
+- order_id: 496
+  customer_id: 998
+  order_date: '2025-05-06 19:47:26'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 315.68
+  discount_amount: 54.34
+  shipping_cost: 20.87
+- order_id: 497
+  customer_id: 392
+  order_date: '2025-04-22 10:14:34'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 898.15
+  discount_amount: 60.85
+  shipping_cost: 3.63
+- order_id: 498
+  customer_id: 771
+  order_date: '2024-12-15 00:59:30'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 924.78
+  discount_amount: 82.9
+  shipping_cost: 27.11
+- order_id: 499
+  customer_id: 201
+  order_date: '2025-04-04 11:47:49'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 66.34
+  discount_amount: 42.21
+  shipping_cost: 5.27
+- order_id: 500
+  customer_id: 609
+  order_date: '2025-06-10 13:01:12'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 1915.17
+  discount_amount: 20.29
+  shipping_cost: 32.82
+- order_id: 501
+  customer_id: 701
+  order_date: '2025-04-19 11:22:33'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 1795.42
+  discount_amount: 52.86
+  shipping_cost: 34.37
+- order_id: 502
+  customer_id: 546
+  order_date: '2025-09-27 23:07:04'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 566.34
+  discount_amount: 83.73
+  shipping_cost: 13.91
+- order_id: 503
+  customer_id: 579
+  order_date: '2025-02-16 10:38:19'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 789.77
+  discount_amount: 78.47
+  shipping_cost: 1.08
+- order_id: 504
+  customer_id: 830
+  order_date: '2024-10-20 12:51:08'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 1085.96
+  discount_amount: 11.06
+  shipping_cost: 26.08
+- order_id: 505
+  customer_id: 887
+  order_date: '2025-04-24 17:39:45'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 390.87
+  discount_amount: 27.85
+  shipping_cost: 1.63
+- order_id: 506
+  customer_id: 15
+  order_date: '2025-02-03 21:33:03'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 585.69
+  discount_amount: 13.45
+  shipping_cost: 27.27
+- order_id: 507
+  customer_id: 583
+  order_date: '2024-10-05 17:44:17'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 1522.86
+  discount_amount: 42.73
+  shipping_cost: 32.19
+- order_id: 508
+  customer_id: 310
+  order_date: '2025-07-15 13:09:19'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 101.27
+  discount_amount: 92.05
+  shipping_cost: 9.42
+- order_id: 509
+  customer_id: 752
+  order_date: '2025-06-01 23:48:50'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 783.2
+  discount_amount: 89.64
+  shipping_cost: 18.3
+- order_id: 510
+  customer_id: 458
+  order_date: '2025-03-10 14:15:50'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 170.24
+  discount_amount: 85.19
+  shipping_cost: 9.13
+- order_id: 511
+  customer_id: 850
+  order_date: '2025-03-24 19:08:37'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 1647.88
+  discount_amount: 10.12
+  shipping_cost: 25.58
+- order_id: 512
+  customer_id: 4
+  order_date: '2025-02-04 10:29:55'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 1527.47
+  discount_amount: 34.07
+  shipping_cost: 39.87
+- order_id: 513
+  customer_id: 971
+  order_date: '2024-11-25 19:35:26'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 1800.32
+  discount_amount: 50.75
+  shipping_cost: 27.98
+- order_id: 514
+  customer_id: 842
+  order_date: '2025-02-06 19:18:05'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 255.84
+  discount_amount: 34.2
+  shipping_cost: 34.65
+- order_id: 515
+  customer_id: 785
+  order_date: '2025-05-19 10:45:06'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 986.96
+  discount_amount: 34.75
+  shipping_cost: 8.29
+- order_id: 516
+  customer_id: 94
+  order_date: '2025-07-02 16:18:08'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 656.09
+  discount_amount: 76.09
+  shipping_cost: 35.2
+- order_id: 517
+  customer_id: 33
+  order_date: '2025-04-22 01:15:16'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 907.59
+  discount_amount: 27.08
+  shipping_cost: 17.52
+- order_id: 518
+  customer_id: 559
+  order_date: '2025-04-14 10:41:53'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 1535.95
+  discount_amount: 99.65
+  shipping_cost: 26.5
+- order_id: 519
+  customer_id: 280
+  order_date: '2024-10-24 13:45:28'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 268.21
+  discount_amount: 30.18
+  shipping_cost: 35.93
+- order_id: 520
+  customer_id: 427
+  order_date: '2025-04-28 21:24:53'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 1134.12
+  discount_amount: 71.78
+  shipping_cost: 1.93
+- order_id: 521
+  customer_id: 26
+  order_date: '2024-10-11 16:40:20'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 149.33
+  discount_amount: 87.98
+  shipping_cost: 9.38
+- order_id: 522
+  customer_id: 453
+  order_date: '2025-06-13 01:11:22'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 664.31
+  discount_amount: 77.21
+  shipping_cost: 19.61
+- order_id: 523
+  customer_id: 883
+  order_date: '2025-05-11 12:26:58'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 594.07
+  discount_amount: 93.22
+  shipping_cost: 27.88
+- order_id: 524
+  customer_id: 216
+  order_date: '2025-08-01 13:40:03'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 1239.5
+  discount_amount: 64.27
+  shipping_cost: 6.39
+- order_id: 525
+  customer_id: 70
+  order_date: '2025-09-15 08:05:00'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 1406.3
+  discount_amount: 6.44
+  shipping_cost: 23.21
+- order_id: 526
+  customer_id: 75
+  order_date: '2024-12-01 22:16:41'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 1505.44
+  discount_amount: 51.06
+  shipping_cost: 30.36
+- order_id: 527
+  customer_id: 758
+  order_date: '2025-05-17 11:23:28'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 672.31
+  discount_amount: 8.65
+  shipping_cost: 9.52
+- order_id: 528
+  customer_id: 618
+  order_date: '2025-05-07 01:26:06'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 216.39
+  discount_amount: 91.9
+  shipping_cost: 26.55
+- order_id: 529
+  customer_id: 452
+  order_date: '2024-10-05 09:18:05'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 67.76
+  discount_amount: 18.98
+  shipping_cost: 38.18
+- order_id: 530
+  customer_id: 556
+  order_date: '2024-10-10 12:59:03'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 1088.2
+  discount_amount: 46.88
+  shipping_cost: 6.48
+- order_id: 531
+  customer_id: 517
+  order_date: '2025-03-11 06:39:09'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 1800.34
+  discount_amount: 57.23
+  shipping_cost: 14.86
+- order_id: 532
+  customer_id: 940
+  order_date: '2025-09-12 07:45:00'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 1295.86
+  discount_amount: 70.48
+  shipping_cost: 25.29
+- order_id: 533
+  customer_id: 964
+  order_date: '2025-05-07 19:05:51'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 635.13
+  discount_amount: 7.89
+  shipping_cost: 22.11
+- order_id: 534
+  customer_id: 211
+  order_date: '2024-11-26 06:41:47'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 1314.26
+  discount_amount: 54.36
+  shipping_cost: 1.64
+- order_id: 535
+  customer_id: 326
+  order_date: '2025-09-28 04:22:12'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 1719.72
+  discount_amount: 81.04
+  shipping_cost: 18.83
+- order_id: 536
+  customer_id: 994
+  order_date: '2025-09-20 20:08:03'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 544.91
+  discount_amount: 52.77
+  shipping_cost: 27.22
+- order_id: 537
+  customer_id: 138
+  order_date: '2025-02-02 19:20:21'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 1352.54
+  discount_amount: 84.13
+  shipping_cost: 24.21
+- order_id: 538
+  customer_id: 904
+  order_date: '2025-04-29 20:38:57'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 930.85
+  discount_amount: 65.76
+  shipping_cost: 28.03
+- order_id: 539
+  customer_id: 515
+  order_date: '2025-07-01 14:02:48'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 1017.44
+  discount_amount: 18.73
+  shipping_cost: 18.48
+- order_id: 540
+  customer_id: 546
+  order_date: '2025-02-28 02:22:10'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 332.51
+  discount_amount: 34.71
+  shipping_cost: 16.24
+- order_id: 541
+  customer_id: 528
+  order_date: '2025-02-20 11:05:38'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 1808.86
+  discount_amount: 28.93
+  shipping_cost: 4.72
+- order_id: 542
+  customer_id: 601
+  order_date: '2025-02-25 03:51:27'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 1065.83
+  discount_amount: 59.12
+  shipping_cost: 32.56
+- order_id: 543
+  customer_id: 972
+  order_date: '2025-09-18 05:02:53'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 278.26
+  discount_amount: 47.04
+  shipping_cost: 25.17
+- order_id: 544
+  customer_id: 644
+  order_date: '2025-05-26 21:24:00'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 688.15
+  discount_amount: 19.29
+  shipping_cost: 1.72
+- order_id: 545
+  customer_id: 374
+  order_date: '2025-01-18 19:24:11'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 460.47
+  discount_amount: 87.36
+  shipping_cost: 35.01
+- order_id: 546
+  customer_id: 494
+  order_date: '2024-11-07 23:10:10'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 755.03
+  discount_amount: 52.21
+  shipping_cost: 1.08
+- order_id: 547
+  customer_id: 630
+  order_date: '2025-07-23 14:40:54'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 481.46
+  discount_amount: 8.42
+  shipping_cost: 35.91
+- order_id: 548
+  customer_id: 787
+  order_date: '2025-09-12 10:03:07'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 1718.95
+  discount_amount: 44.22
+  shipping_cost: 31.48
+- order_id: 549
+  customer_id: 156
+  order_date: '2024-10-28 02:36:15'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 417.4
+  discount_amount: 46.2
+  shipping_cost: 34.68
+- order_id: 550
+  customer_id: 100
+  order_date: '2025-08-06 05:19:50'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 1730.03
+  discount_amount: 42.17
+  shipping_cost: 30.62
+- order_id: 551
+  customer_id: 806
+  order_date: '2024-11-09 04:46:26'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 1547.54
+  discount_amount: 52.33
+  shipping_cost: 29.65
+- order_id: 552
+  customer_id: 320
+  order_date: '2025-06-02 07:10:30'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 601.53
+  discount_amount: 70.79
+  shipping_cost: 18.01
+- order_id: 553
+  customer_id: 948
+  order_date: '2024-10-20 08:05:16'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 1584.54
+  discount_amount: 90.11
+  shipping_cost: 1.66
+- order_id: 554
+  customer_id: 980
+  order_date: '2025-08-15 05:50:36'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 1481.06
+  discount_amount: 84.4
+  shipping_cost: 19.12
+- order_id: 555
+  customer_id: 462
+  order_date: '2024-10-24 10:07:02'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 1495.4
+  discount_amount: 23.53
+  shipping_cost: 1.15
+- order_id: 556
+  customer_id: 843
+  order_date: '2025-08-30 18:12:25'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 816.57
+  discount_amount: 58.79
+  shipping_cost: 31.08
+- order_id: 557
+  customer_id: 177
+  order_date: '2024-10-04 02:42:26'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 1119.31
+  discount_amount: 8.01
+  shipping_cost: 19.93
+- order_id: 558
+  customer_id: 233
+  order_date: '2024-11-26 13:25:42'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 525.68
+  discount_amount: 91.43
+  shipping_cost: 0.87
+- order_id: 559
+  customer_id: 372
+  order_date: '2025-07-15 11:24:01'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 479.79
+  discount_amount: 38.23
+  shipping_cost: 19.47
+- order_id: 560
+  customer_id: 85
+  order_date: '2025-04-08 00:06:10'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 925.59
+  discount_amount: 61.35
+  shipping_cost: 17.65
+- order_id: 561
+  customer_id: 69
+  order_date: '2024-11-14 02:24:32'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 1295.9
+  discount_amount: 51.67
+  shipping_cost: 2.54
+- order_id: 562
+  customer_id: 199
+  order_date: '2024-11-13 08:43:15'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 1832.27
+  discount_amount: 73.19
+  shipping_cost: 18.67
+- order_id: 563
+  customer_id: 619
+  order_date: '2024-11-27 18:34:48'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 293.47
+  discount_amount: 18.27
+  shipping_cost: 37.46
+- order_id: 564
+  customer_id: 326
+  order_date: '2025-07-17 16:56:06'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 1501.06
+  discount_amount: 76.31
+  shipping_cost: 31.37
+- order_id: 565
+  customer_id: 747
+  order_date: '2025-06-18 06:26:12'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 1722.57
+  discount_amount: 78.75
+  shipping_cost: 36.51
+- order_id: 566
+  customer_id: 149
+  order_date: '2024-11-22 23:35:01'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 1025.85
+  discount_amount: 70.79
+  shipping_cost: 22.77
+- order_id: 567
+  customer_id: 949
+  order_date: '2025-02-25 00:08:33'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 448.99
+  discount_amount: 55.16
+  shipping_cost: 37.42
+- order_id: 568
+  customer_id: 761
+  order_date: '2025-04-06 10:42:05'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 749.2
+  discount_amount: 44.57
+  shipping_cost: 2.32
+- order_id: 569
+  customer_id: 21
+  order_date: '2025-03-31 19:40:53'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 1360.87
+  discount_amount: 57.08
+  shipping_cost: 1.5
+- order_id: 570
+  customer_id: 638
+  order_date: '2025-01-06 10:48:16'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 1896.16
+  discount_amount: 17.26
+  shipping_cost: 11.26
+- order_id: 571
+  customer_id: 259
+  order_date: '2025-04-08 17:57:48'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 1451.97
+  discount_amount: 58.77
+  shipping_cost: 22.33
+- order_id: 572
+  customer_id: 801
+  order_date: '2024-10-25 13:21:15'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 1751.4
+  discount_amount: 26.6
+  shipping_cost: 16.6
+- order_id: 573
+  customer_id: 348
+  order_date: '2025-06-21 02:21:35'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 638.39
+  discount_amount: 1.68
+  shipping_cost: 3.62
+- order_id: 574
+  customer_id: 749
+  order_date: '2024-12-25 19:19:30'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 788.01
+  discount_amount: 66.91
+  shipping_cost: 36.45
+- order_id: 575
+  customer_id: 909
+  order_date: '2025-06-03 03:55:58'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 229.81
+  discount_amount: 55.63
+  shipping_cost: 6.17
+- order_id: 576
+  customer_id: 377
+  order_date: '2025-06-22 18:11:00'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 1186.79
+  discount_amount: 43.83
+  shipping_cost: 7.22
+- order_id: 577
+  customer_id: 126
+  order_date: '2025-07-14 19:05:12'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 1617.02
+  discount_amount: 29.69
+  shipping_cost: 10.43
+- order_id: 578
+  customer_id: 918
+  order_date: '2025-08-30 05:22:09'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 348.65
+  discount_amount: 63.9
+  shipping_cost: 33.61
+- order_id: 579
+  customer_id: 566
+  order_date: '2025-05-18 07:17:52'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 1065.91
+  discount_amount: 80.22
+  shipping_cost: 8.53
+- order_id: 580
+  customer_id: 153
+  order_date: '2025-06-21 02:12:16'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 1787.18
+  discount_amount: 38.19
+  shipping_cost: 31.79
+- order_id: 581
+  customer_id: 378
+  order_date: '2024-11-13 03:26:56'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 63.51
+  discount_amount: 23.28
+  shipping_cost: 13.18
+- order_id: 582
+  customer_id: 720
+  order_date: '2024-11-20 16:28:16'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 526.82
+  discount_amount: 67.59
+  shipping_cost: 12.38
+- order_id: 583
+  customer_id: 133
+  order_date: '2025-05-20 16:40:58'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 1334.88
+  discount_amount: 77.33
+  shipping_cost: 30.73
+- order_id: 584
+  customer_id: 66
+  order_date: '2024-11-10 14:36:22'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 833.54
+  discount_amount: 16.24
+  shipping_cost: 6.89
+- order_id: 585
+  customer_id: 327
+  order_date: '2025-02-19 11:25:38'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 1042.31
+  discount_amount: 75.44
+  shipping_cost: 1.32
+- order_id: 586
+  customer_id: 265
+  order_date: '2025-01-13 09:03:18'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 1498.34
+  discount_amount: 20.31
+  shipping_cost: 39.77
+- order_id: 587
+  customer_id: 499
+  order_date: '2025-05-10 17:31:45'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 1415.24
+  discount_amount: 71.17
+  shipping_cost: 24.8
+- order_id: 588
+  customer_id: 794
+  order_date: '2025-03-07 12:28:47'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 11.81
+  discount_amount: 17.56
+  shipping_cost: 6.86
+- order_id: 589
+  customer_id: 704
+  order_date: '2025-04-16 09:31:05'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 1985.92
+  discount_amount: 46.88
+  shipping_cost: 32.1
+- order_id: 590
+  customer_id: 156
+  order_date: '2024-11-22 23:11:04'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 524.39
+  discount_amount: 37.33
+  shipping_cost: 21.29
+- order_id: 591
+  customer_id: 483
+  order_date: '2025-07-08 05:45:04'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 775.82
+  discount_amount: 62.73
+  shipping_cost: 1.31
+- order_id: 592
+  customer_id: 633
+  order_date: '2025-08-07 04:09:58'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 72.44
+  discount_amount: 47.9
+  shipping_cost: 11.33
+- order_id: 593
+  customer_id: 621
+  order_date: '2025-03-26 20:23:20'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 1979.42
+  discount_amount: 10.11
+  shipping_cost: 27.77
+- order_id: 594
+  customer_id: 860
+  order_date: '2024-10-26 19:46:25'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 1596.12
+  discount_amount: 17.41
+  shipping_cost: 18.49
+- order_id: 595
+  customer_id: 159
+  order_date: '2025-06-09 09:15:51'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 1061.63
+  discount_amount: 40.22
+  shipping_cost: 12.25
+- order_id: 596
+  customer_id: 745
+  order_date: '2025-06-10 17:26:39'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 1613.55
+  discount_amount: 58.87
+  shipping_cost: 7.11
+- order_id: 597
+  customer_id: 221
+  order_date: '2025-01-20 12:25:49'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 740.88
+  discount_amount: 77.22
+  shipping_cost: 39.94
+- order_id: 598
+  customer_id: 963
+  order_date: '2024-11-23 19:59:53'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 34.93
+  discount_amount: 80.37
+  shipping_cost: 38.53
+- order_id: 599
+  customer_id: 847
+  order_date: '2024-11-02 00:32:41'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 1120.67
+  discount_amount: 58.0
+  shipping_cost: 39.24
+- order_id: 600
+  customer_id: 877
+  order_date: '2025-08-04 05:37:33'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 992.45
+  discount_amount: 12.78
+  shipping_cost: 6.04
+- order_id: 601
+  customer_id: 980
+  order_date: '2025-03-18 03:11:26'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 1384.89
+  discount_amount: 3.54
+  shipping_cost: 3.16
+- order_id: 602
+  customer_id: 240
+  order_date: '2025-02-15 23:51:37'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 1786.22
+  discount_amount: 20.94
+  shipping_cost: 27.84
+- order_id: 603
+  customer_id: 777
+  order_date: '2025-04-05 04:42:26'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 665.67
+  discount_amount: 40.46
+  shipping_cost: 22.97
+- order_id: 604
+  customer_id: 681
+  order_date: '2025-03-18 18:34:30'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 1558.64
+  discount_amount: 8.24
+  shipping_cost: 5.38
+- order_id: 605
+  customer_id: 301
+  order_date: '2025-08-05 17:58:38'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 1538.44
+  discount_amount: 31.99
+  shipping_cost: 32.16
+- order_id: 606
+  customer_id: 945
+  order_date: '2025-08-03 03:10:31'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 251.08
+  discount_amount: 20.11
+  shipping_cost: 2.31
+- order_id: 607
+  customer_id: 460
+  order_date: '2025-07-04 21:00:02'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 1074.33
+  discount_amount: 37.04
+  shipping_cost: 39.31
+- order_id: 608
+  customer_id: 377
+  order_date: '2025-05-13 09:25:19'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 950.04
+  discount_amount: 93.53
+  shipping_cost: 19.12
+- order_id: 609
+  customer_id: 741
+  order_date: '2025-05-04 18:03:05'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 663.04
+  discount_amount: 73.88
+  shipping_cost: 13.33
+- order_id: 610
+  customer_id: 496
+  order_date: '2025-07-27 02:44:35'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 592.53
+  discount_amount: 29.36
+  shipping_cost: 33.71
+- order_id: 611
+  customer_id: 250
+  order_date: '2024-12-15 02:09:26'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 1347.33
+  discount_amount: 2.49
+  shipping_cost: 16.34
+- order_id: 612
+  customer_id: 385
+  order_date: '2025-05-25 20:43:48'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 1342.79
+  discount_amount: 60.69
+  shipping_cost: 8.3
+- order_id: 613
+  customer_id: 746
+  order_date: '2025-03-14 14:28:52'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 1083.84
+  discount_amount: 33.14
+  shipping_cost: 4.88
+- order_id: 614
+  customer_id: 610
+  order_date: '2025-03-21 12:08:36'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 426.99
+  discount_amount: 8.32
+  shipping_cost: 17.36
+- order_id: 615
+  customer_id: 180
+  order_date: '2025-03-22 21:23:18'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 597.42
+  discount_amount: 58.75
+  shipping_cost: 37.26
+- order_id: 616
+  customer_id: 849
+  order_date: '2024-12-05 07:00:49'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 1574.32
+  discount_amount: 71.98
+  shipping_cost: 20.36
+- order_id: 617
+  customer_id: 86
+  order_date: '2025-07-20 14:05:41'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 1627.62
+  discount_amount: 41.86
+  shipping_cost: 18.42
+- order_id: 618
+  customer_id: 984
+  order_date: '2024-12-24 11:18:19'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 1321.32
+  discount_amount: 72.26
+  shipping_cost: 21.35
+- order_id: 619
+  customer_id: 802
+  order_date: '2025-03-29 14:52:30'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 1879.96
+  discount_amount: 84.84
+  shipping_cost: 34.29
+- order_id: 620
+  customer_id: 797
+  order_date: '2024-12-23 00:59:56'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 751.5
+  discount_amount: 57.78
+  shipping_cost: 1.48
+- order_id: 621
+  customer_id: 392
+  order_date: '2025-07-05 13:03:35'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 402.53
+  discount_amount: 37.21
+  shipping_cost: 32.48
+- order_id: 622
+  customer_id: 895
+  order_date: '2025-06-05 21:14:00'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 87.7
+  discount_amount: 97.68
+  shipping_cost: 30.64
+- order_id: 623
+  customer_id: 539
+  order_date: '2025-01-23 10:48:47'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 1431.68
+  discount_amount: 93.37
+  shipping_cost: 19.05
+- order_id: 624
+  customer_id: 819
+  order_date: '2024-11-05 22:49:48'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 975.49
+  discount_amount: 3.53
+  shipping_cost: 32.15
+- order_id: 625
+  customer_id: 126
+  order_date: '2025-07-01 19:35:13'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 434.91
+  discount_amount: 64.78
+  shipping_cost: 30.1
+- order_id: 626
+  customer_id: 706
+  order_date: '2024-11-10 17:22:54'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 942.17
+  discount_amount: 35.58
+  shipping_cost: 31.91
+- order_id: 627
+  customer_id: 164
+  order_date: '2025-07-01 20:28:11'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 1182.04
+  discount_amount: 87.33
+  shipping_cost: 18.29
+- order_id: 628
+  customer_id: 626
+  order_date: '2025-08-05 07:27:39'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 845.72
+  discount_amount: 27.09
+  shipping_cost: 16.27
+- order_id: 629
+  customer_id: 891
+  order_date: '2025-05-28 07:39:12'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 1576.65
+  discount_amount: 0.93
+  shipping_cost: 9.39
+- order_id: 630
+  customer_id: 223
+  order_date: '2024-11-06 12:25:43'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 1682.32
+  discount_amount: 90.96
+  shipping_cost: 7.47
+- order_id: 631
+  customer_id: 756
+  order_date: '2025-07-30 10:18:25'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 1549.74
+  discount_amount: 0.99
+  shipping_cost: 0.57
+- order_id: 632
+  customer_id: 162
+  order_date: '2024-12-24 16:45:26'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 1625.84
+  discount_amount: 24.13
+  shipping_cost: 8.04
+- order_id: 633
+  customer_id: 609
+  order_date: '2025-02-27 04:47:19'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 403.55
+  discount_amount: 6.2
+  shipping_cost: 17.55
+- order_id: 634
+  customer_id: 966
+  order_date: '2024-11-17 18:39:09'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 1967.99
+  discount_amount: 97.04
+  shipping_cost: 38.66
+- order_id: 635
+  customer_id: 989
+  order_date: '2025-09-07 12:18:32'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 1621.64
+  discount_amount: 80.8
+  shipping_cost: 36.25
+- order_id: 636
+  customer_id: 772
+  order_date: '2025-09-12 11:02:13'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 1268.94
+  discount_amount: 72.09
+  shipping_cost: 22.46
+- order_id: 637
+  customer_id: 10
+  order_date: '2025-06-27 19:58:54'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 711.62
+  discount_amount: 16.5
+  shipping_cost: 27.69
+- order_id: 638
+  customer_id: 765
+  order_date: '2024-10-16 17:59:07'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 18.37
+  discount_amount: 35.43
+  shipping_cost: 21.17
+- order_id: 639
+  customer_id: 637
+  order_date: '2024-11-15 09:14:44'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 767.71
+  discount_amount: 66.23
+  shipping_cost: 27.03
+- order_id: 640
+  customer_id: 65
+  order_date: '2024-11-03 15:48:49'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 158.34
+  discount_amount: 39.79
+  shipping_cost: 2.89
+- order_id: 641
+  customer_id: 813
+  order_date: '2025-09-10 10:34:51'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 1040.98
+  discount_amount: 28.56
+  shipping_cost: 39.72
+- order_id: 642
+  customer_id: 341
+  order_date: '2024-11-11 11:38:19'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 1451.46
+  discount_amount: 11.48
+  shipping_cost: 9.06
+- order_id: 643
+  customer_id: 877
+  order_date: '2025-08-25 00:00:45'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 65.15
+  discount_amount: 0.2
+  shipping_cost: 20.16
+- order_id: 644
+  customer_id: 814
+  order_date: '2025-07-18 14:45:18'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 1416.6
+  discount_amount: 6.59
+  shipping_cost: 24.56
+- order_id: 645
+  customer_id: 917
+  order_date: '2025-05-19 08:52:26'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 1003.57
+  discount_amount: 20.64
+  shipping_cost: 24.13
+- order_id: 646
+  customer_id: 877
+  order_date: '2025-03-09 15:10:21'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 750.33
+  discount_amount: 4.25
+  shipping_cost: 3.0
+- order_id: 647
+  customer_id: 828
+  order_date: '2025-03-14 06:17:22'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 570.03
+  discount_amount: 78.2
+  shipping_cost: 5.84
+- order_id: 648
+  customer_id: 386
+  order_date: '2025-06-05 16:43:46'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 169.33
+  discount_amount: 47.67
+  shipping_cost: 29.64
+- order_id: 649
+  customer_id: 163
+  order_date: '2025-03-03 20:28:39'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 780.68
+  discount_amount: 55.81
+  shipping_cost: 27.8
+- order_id: 650
+  customer_id: 665
+  order_date: '2024-11-12 13:20:54'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 738.69
+  discount_amount: 94.42
+  shipping_cost: 19.18
+- order_id: 651
+  customer_id: 634
+  order_date: '2025-02-08 04:07:26'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 1906.37
+  discount_amount: 68.37
+  shipping_cost: 12.5
+- order_id: 652
+  customer_id: 279
+  order_date: '2024-10-20 18:55:24'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 1615.62
+  discount_amount: 14.59
+  shipping_cost: 22.74
+- order_id: 653
+  customer_id: 983
+  order_date: '2025-01-03 15:45:57'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 1408.58
+  discount_amount: 39.67
+  shipping_cost: 38.35
+- order_id: 654
+  customer_id: 828
+  order_date: '2025-01-19 19:47:30'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 456.97
+  discount_amount: 29.3
+  shipping_cost: 25.58
+- order_id: 655
+  customer_id: 448
+  order_date: '2025-08-13 21:35:28'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 1865.81
+  discount_amount: 28.86
+  shipping_cost: 27.41
+- order_id: 656
+  customer_id: 448
+  order_date: '2025-06-17 00:02:02'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 50.92
+  discount_amount: 14.92
+  shipping_cost: 8.63
+- order_id: 657
+  customer_id: 292
+  order_date: '2024-12-05 18:46:03'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 1448.9
+  discount_amount: 98.26
+  shipping_cost: 17.04
+- order_id: 658
+  customer_id: 397
+  order_date: '2025-08-14 00:00:19'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 420.69
+  discount_amount: 46.86
+  shipping_cost: 18.17
+- order_id: 659
+  customer_id: 280
+  order_date: '2025-05-01 14:44:07'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 497.96
+  discount_amount: 83.34
+  shipping_cost: 8.81
+- order_id: 660
+  customer_id: 599
+  order_date: '2025-08-04 12:00:53'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 1786.22
+  discount_amount: 45.75
+  shipping_cost: 6.51
+- order_id: 661
+  customer_id: 627
+  order_date: '2025-09-01 00:12:19'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 938.25
+  discount_amount: 32.67
+  shipping_cost: 36.9
+- order_id: 662
+  customer_id: 282
+  order_date: '2025-04-25 20:13:35'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 1017.21
+  discount_amount: 83.93
+  shipping_cost: 31.47
+- order_id: 663
+  customer_id: 188
+  order_date: '2024-10-29 07:47:55'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 1328.56
+  discount_amount: 70.95
+  shipping_cost: 15.69
+- order_id: 664
+  customer_id: 361
+  order_date: '2025-09-01 04:45:03'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 206.25
+  discount_amount: 24.65
+  shipping_cost: 20.87
+- order_id: 665
+  customer_id: 642
+  order_date: '2025-03-20 13:20:18'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 1921.78
+  discount_amount: 70.74
+  shipping_cost: 22.86
+- order_id: 666
+  customer_id: 973
+  order_date: '2025-01-03 17:23:29'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 390.63
+  discount_amount: 25.84
+  shipping_cost: 13.38
+- order_id: 667
+  customer_id: 701
+  order_date: '2025-04-02 01:06:59'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 1138.71
+  discount_amount: 98.94
+  shipping_cost: 30.64
+- order_id: 668
+  customer_id: 725
+  order_date: '2025-02-27 16:02:49'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 161.02
+  discount_amount: 82.15
+  shipping_cost: 12.77
+- order_id: 669
+  customer_id: 241
+  order_date: '2025-08-21 21:49:51'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 1681.63
+  discount_amount: 88.52
+  shipping_cost: 36.38
+- order_id: 670
+  customer_id: 394
+  order_date: '2025-08-10 09:47:23'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 433.27
+  discount_amount: 6.58
+  shipping_cost: 24.91
+- order_id: 671
+  customer_id: 287
+  order_date: '2025-06-01 05:56:34'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 946.5
+  discount_amount: 24.24
+  shipping_cost: 18.33
+- order_id: 672
+  customer_id: 805
+  order_date: '2024-11-17 04:09:44'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 1281.64
+  discount_amount: 87.91
+  shipping_cost: 36.48
+- order_id: 673
+  customer_id: 22
+  order_date: '2024-12-01 10:08:38'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 565.15
+  discount_amount: 37.5
+  shipping_cost: 9.74
+- order_id: 674
+  customer_id: 344
+  order_date: '2025-09-14 21:07:58'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 169.29
+  discount_amount: 39.1
+  shipping_cost: 36.84
+- order_id: 675
+  customer_id: 785
+  order_date: '2025-06-25 01:25:33'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 757.42
+  discount_amount: 47.46
+  shipping_cost: 4.52
+- order_id: 676
+  customer_id: 27
+  order_date: '2025-09-19 03:45:34'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 858.96
+  discount_amount: 24.0
+  shipping_cost: 30.41
+- order_id: 677
+  customer_id: 975
+  order_date: '2025-08-08 08:20:09'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 338.6
+  discount_amount: 55.93
+  shipping_cost: 13.76
+- order_id: 678
+  customer_id: 290
+  order_date: '2024-10-03 12:07:50'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 1858.27
+  discount_amount: 79.48
+  shipping_cost: 33.32
+- order_id: 679
+  customer_id: 594
+  order_date: '2025-06-08 19:03:23'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 1222.22
+  discount_amount: 5.31
+  shipping_cost: 11.91
+- order_id: 680
+  customer_id: 446
+  order_date: '2024-10-13 17:13:44'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 870.44
+  discount_amount: 83.54
+  shipping_cost: 8.1
+- order_id: 681
+  customer_id: 11
+  order_date: '2025-07-05 01:01:59'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 1652.16
+  discount_amount: 39.24
+  shipping_cost: 29.61
+- order_id: 682
+  customer_id: 303
+  order_date: '2024-10-04 04:07:22'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 799.47
+  discount_amount: 93.4
+  shipping_cost: 4.94
+- order_id: 683
+  customer_id: 204
+  order_date: '2025-09-10 19:57:10'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 1719.69
+  discount_amount: 10.17
+  shipping_cost: 17.04
+- order_id: 684
+  customer_id: 7
+  order_date: '2025-05-14 12:44:05'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 338.02
+  discount_amount: 79.01
+  shipping_cost: 5.54
+- order_id: 685
+  customer_id: 79
+  order_date: '2025-08-23 17:35:39'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 377.88
+  discount_amount: 75.32
+  shipping_cost: 6.33
+- order_id: 686
+  customer_id: 795
+  order_date: '2025-04-06 00:41:00'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 347.16
+  discount_amount: 69.98
+  shipping_cost: 36.19
+- order_id: 687
+  customer_id: 187
+  order_date: '2025-09-27 20:28:44'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 723.86
+  discount_amount: 16.4
+  shipping_cost: 8.5
+- order_id: 688
+  customer_id: 487
+  order_date: '2024-12-13 10:49:39'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 365.38
+  discount_amount: 48.8
+  shipping_cost: 4.46
+- order_id: 689
+  customer_id: 574
+  order_date: '2025-03-03 20:50:24'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 110.59
+  discount_amount: 38.11
+  shipping_cost: 30.21
+- order_id: 690
+  customer_id: 687
+  order_date: '2025-06-11 15:10:53'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 199.94
+  discount_amount: 32.97
+  shipping_cost: 20.66
+- order_id: 691
+  customer_id: 341
+  order_date: '2025-05-31 16:36:09'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 127.03
+  discount_amount: 16.25
+  shipping_cost: 16.02
+- order_id: 692
+  customer_id: 628
+  order_date: '2024-12-19 13:22:53'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 1768.82
+  discount_amount: 56.6
+  shipping_cost: 8.21
+- order_id: 693
+  customer_id: 679
+  order_date: '2024-12-19 02:27:29'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 1169.36
+  discount_amount: 41.5
+  shipping_cost: 22.98
+- order_id: 694
+  customer_id: 138
+  order_date: '2025-04-11 03:30:02'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 696.78
+  discount_amount: 60.81
+  shipping_cost: 25.4
+- order_id: 695
+  customer_id: 494
+  order_date: '2025-06-25 17:09:40'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 1860.97
+  discount_amount: 98.34
+  shipping_cost: 8.55
+- order_id: 696
+  customer_id: 659
+  order_date: '2024-11-09 07:03:44'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 1571.97
+  discount_amount: 48.46
+  shipping_cost: 13.87
+- order_id: 697
+  customer_id: 89
+  order_date: '2025-03-27 10:36:35'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 741.02
+  discount_amount: 8.01
+  shipping_cost: 18.39
+- order_id: 698
+  customer_id: 897
+  order_date: '2025-05-03 09:16:44'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 301.36
+  discount_amount: 60.78
+  shipping_cost: 38.4
+- order_id: 699
+  customer_id: 165
+  order_date: '2024-10-05 14:32:56'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 1067.51
+  discount_amount: 20.23
+  shipping_cost: 11.53
+- order_id: 700
+  customer_id: 134
+  order_date: '2025-09-17 05:06:35'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 1982.12
+  discount_amount: 52.79
+  shipping_cost: 11.05
+- order_id: 701
+  customer_id: 396
+  order_date: '2025-06-30 12:17:02'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 1093.78
+  discount_amount: 3.8
+  shipping_cost: 22.67
+- order_id: 702
+  customer_id: 793
+  order_date: '2025-08-26 10:24:24'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 719.64
+  discount_amount: 19.53
+  shipping_cost: 8.51
+- order_id: 703
+  customer_id: 186
+  order_date: '2025-03-07 19:13:24'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 533.81
+  discount_amount: 3.32
+  shipping_cost: 3.5
+- order_id: 704
+  customer_id: 768
+  order_date: '2025-05-30 12:09:48'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 569.74
+  discount_amount: 32.83
+  shipping_cost: 25.2
+- order_id: 705
+  customer_id: 475
+  order_date: '2024-10-18 16:44:14'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 1666.37
+  discount_amount: 12.45
+  shipping_cost: 39.88
+- order_id: 706
+  customer_id: 504
+  order_date: '2025-05-08 14:00:42'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 25.36
+  discount_amount: 29.07
+  shipping_cost: 0.19
+- order_id: 707
+  customer_id: 815
+  order_date: '2024-10-18 12:11:20'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 440.36
+  discount_amount: 55.35
+  shipping_cost: 20.44
+- order_id: 708
+  customer_id: 761
+  order_date: '2025-06-01 17:15:01'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 1235.94
+  discount_amount: 7.41
+  shipping_cost: 25.21
+- order_id: 709
+  customer_id: 663
+  order_date: '2024-10-19 14:19:52'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 1169.48
+  discount_amount: 9.62
+  shipping_cost: 5.25
+- order_id: 710
+  customer_id: 388
+  order_date: '2025-04-11 12:11:13'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 453.6
+  discount_amount: 88.74
+  shipping_cost: 33.8
+- order_id: 711
+  customer_id: 424
+  order_date: '2024-10-03 05:00:47'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 1237.36
+  discount_amount: 75.08
+  shipping_cost: 16.97
+- order_id: 712
+  customer_id: 327
+  order_date: '2024-11-01 09:34:12'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 1194.99
+  discount_amount: 31.49
+  shipping_cost: 22.49
+- order_id: 713
+  customer_id: 221
+  order_date: '2025-03-03 06:47:33'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 1405.9
+  discount_amount: 62.78
+  shipping_cost: 4.25
+- order_id: 714
+  customer_id: 256
+  order_date: '2024-12-28 07:07:40'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 1141.17
+  discount_amount: 97.18
+  shipping_cost: 6.1
+- order_id: 715
+  customer_id: 463
+  order_date: '2025-06-16 16:13:18'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 1676.66
+  discount_amount: 68.23
+  shipping_cost: 32.47
+- order_id: 716
+  customer_id: 328
+  order_date: '2025-01-10 07:06:37'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 1832.92
+  discount_amount: 11.23
+  shipping_cost: 26.26
+- order_id: 717
+  customer_id: 180
+  order_date: '2024-10-29 04:44:24'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 566.81
+  discount_amount: 25.63
+  shipping_cost: 33.93
+- order_id: 718
+  customer_id: 46
+  order_date: '2025-04-17 13:23:08'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 568.25
+  discount_amount: 67.9
+  shipping_cost: 21.23
+- order_id: 719
+  customer_id: 668
+  order_date: '2025-02-10 07:46:03'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 1324.76
+  discount_amount: 50.87
+  shipping_cost: 13.49
+- order_id: 720
+  customer_id: 46
+  order_date: '2025-09-26 15:20:07'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 1479.03
+  discount_amount: 36.64
+  shipping_cost: 28.43
+- order_id: 721
+  customer_id: 456
+  order_date: '2025-04-18 12:32:02'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 1036.82
+  discount_amount: 19.41
+  shipping_cost: 21.27
+- order_id: 722
+  customer_id: 974
+  order_date: '2025-08-11 03:45:00'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 648.61
+  discount_amount: 33.13
+  shipping_cost: 4.27
+- order_id: 723
+  customer_id: 336
+  order_date: '2024-10-01 09:02:05'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 143.65
+  discount_amount: 42.55
+  shipping_cost: 0.12
+- order_id: 724
+  customer_id: 147
+  order_date: '2025-02-17 03:13:37'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 446.42
+  discount_amount: 30.48
+  shipping_cost: 16.56
+- order_id: 725
+  customer_id: 381
+  order_date: '2024-12-03 02:17:52'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 766.49
+  discount_amount: 41.58
+  shipping_cost: 35.26
+- order_id: 726
+  customer_id: 112
+  order_date: '2024-11-03 12:41:34'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 1101.42
+  discount_amount: 35.31
+  shipping_cost: 8.53
+- order_id: 727
+  customer_id: 696
+  order_date: '2025-06-14 01:28:36'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 858.27
+  discount_amount: 7.0
+  shipping_cost: 28.72
+- order_id: 728
+  customer_id: 494
+  order_date: '2025-03-18 10:57:34'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 1355.54
+  discount_amount: 89.88
+  shipping_cost: 17.31
+- order_id: 729
+  customer_id: 779
+  order_date: '2025-02-23 19:20:38'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 1755.51
+  discount_amount: 72.49
+  shipping_cost: 34.21
+- order_id: 730
+  customer_id: 412
+  order_date: '2024-12-14 14:56:40'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 274.87
+  discount_amount: 32.2
+  shipping_cost: 10.13
+- order_id: 731
+  customer_id: 777
+  order_date: '2025-02-02 07:38:46'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 35.05
+  discount_amount: 56.78
+  shipping_cost: 37.79
+- order_id: 732
+  customer_id: 125
+  order_date: '2025-04-22 19:09:39'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 1301.88
+  discount_amount: 98.31
+  shipping_cost: 28.3
+- order_id: 733
+  customer_id: 246
+  order_date: '2025-05-31 11:50:00'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 74.38
+  discount_amount: 69.35
+  shipping_cost: 17.46
+- order_id: 734
+  customer_id: 41
+  order_date: '2024-12-04 20:30:46'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 236.15
+  discount_amount: 47.87
+  shipping_cost: 27.43
+- order_id: 735
+  customer_id: 396
+  order_date: '2024-10-08 10:52:01'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 173.67
+  discount_amount: 95.41
+  shipping_cost: 28.21
+- order_id: 736
+  customer_id: 68
+  order_date: '2024-10-01 16:18:12'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 1113.59
+  discount_amount: 41.33
+  shipping_cost: 30.18
+- order_id: 737
+  customer_id: 697
+  order_date: '2024-12-09 20:59:25'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 127.87
+  discount_amount: 26.55
+  shipping_cost: 13.25
+- order_id: 738
+  customer_id: 720
+  order_date: '2025-05-28 12:13:30'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 1052.46
+  discount_amount: 22.6
+  shipping_cost: 28.96
+- order_id: 739
+  customer_id: 967
+  order_date: '2025-07-04 08:50:41'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 1188.16
+  discount_amount: 76.41
+  shipping_cost: 10.41
+- order_id: 740
+  customer_id: 146
+  order_date: '2025-01-20 05:23:17'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 1268.91
+  discount_amount: 35.24
+  shipping_cost: 33.45
+- order_id: 741
+  customer_id: 455
+  order_date: '2024-10-24 03:15:11'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 1721.14
+  discount_amount: 11.61
+  shipping_cost: 14.71
+- order_id: 742
+  customer_id: 543
+  order_date: '2024-11-07 22:28:59'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 939.31
+  discount_amount: 17.56
+  shipping_cost: 38.48
+- order_id: 743
+  customer_id: 588
+  order_date: '2025-07-05 03:58:48'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 1980.99
+  discount_amount: 52.13
+  shipping_cost: 16.63
+- order_id: 744
+  customer_id: 669
+  order_date: '2025-01-14 08:08:08'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 894.38
+  discount_amount: 19.77
+  shipping_cost: 25.93
+- order_id: 745
+  customer_id: 707
+  order_date: '2025-01-11 13:35:06'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 77.24
+  discount_amount: 8.8
+  shipping_cost: 22.25
+- order_id: 746
+  customer_id: 964
+  order_date: '2025-01-02 20:26:11'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 770.13
+  discount_amount: 4.74
+  shipping_cost: 15.68
+- order_id: 747
+  customer_id: 404
+  order_date: '2025-08-18 06:01:53'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 1983.25
+  discount_amount: 33.46
+  shipping_cost: 26.69
+- order_id: 748
+  customer_id: 431
+  order_date: '2025-06-04 05:29:16'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 930.63
+  discount_amount: 17.49
+  shipping_cost: 1.04
+- order_id: 749
+  customer_id: 252
+  order_date: '2024-12-20 18:58:50'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 930.6
+  discount_amount: 77.4
+  shipping_cost: 21.15
+- order_id: 750
+  customer_id: 634
+  order_date: '2025-08-23 02:41:46'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 158.59
+  discount_amount: 27.76
+  shipping_cost: 9.04
+- order_id: 751
+  customer_id: 783
+  order_date: '2025-06-02 21:07:24'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 745.89
+  discount_amount: 78.49
+  shipping_cost: 38.57
+- order_id: 752
+  customer_id: 488
+  order_date: '2025-03-26 01:58:37'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 1524.46
+  discount_amount: 71.86
+  shipping_cost: 22.07
+- order_id: 753
+  customer_id: 92
+  order_date: '2025-06-13 11:38:09'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 781.32
+  discount_amount: 98.06
+  shipping_cost: 31.69
+- order_id: 754
+  customer_id: 572
+  order_date: '2025-06-04 16:12:49'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 1200.03
+  discount_amount: 58.82
+  shipping_cost: 6.91
+- order_id: 755
+  customer_id: 643
+  order_date: '2024-10-29 07:34:06'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 816.72
+  discount_amount: 32.9
+  shipping_cost: 17.84
+- order_id: 756
+  customer_id: 733
+  order_date: '2024-12-17 03:09:01'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 102.48
+  discount_amount: 28.82
+  shipping_cost: 4.08
+- order_id: 757
+  customer_id: 180
+  order_date: '2025-07-01 05:58:39'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 100.32
+  discount_amount: 76.72
+  shipping_cost: 28.4
+- order_id: 758
+  customer_id: 288
+  order_date: '2024-11-10 12:25:36'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 1752.43
+  discount_amount: 1.14
+  shipping_cost: 36.99
+- order_id: 759
+  customer_id: 276
+  order_date: '2025-01-26 06:23:39'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 517.18
+  discount_amount: 87.78
+  shipping_cost: 7.46
+- order_id: 760
+  customer_id: 122
+  order_date: '2025-06-10 08:12:46'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 748.93
+  discount_amount: 26.17
+  shipping_cost: 24.88
+- order_id: 761
+  customer_id: 784
+  order_date: '2025-05-28 22:14:28'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 893.53
+  discount_amount: 94.35
+  shipping_cost: 23.34
+- order_id: 762
+  customer_id: 70
+  order_date: '2025-08-13 16:52:22'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 342.41
+  discount_amount: 61.5
+  shipping_cost: 7.95
+- order_id: 763
+  customer_id: 880
+  order_date: '2024-12-10 12:37:30'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 779.11
+  discount_amount: 96.45
+  shipping_cost: 5.85
+- order_id: 764
+  customer_id: 590
+  order_date: '2024-10-20 11:42:04'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 773.71
+  discount_amount: 46.5
+  shipping_cost: 13.11
+- order_id: 765
+  customer_id: 8
+  order_date: '2025-04-27 19:34:06'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 1385.41
+  discount_amount: 87.84
+  shipping_cost: 35.58
+- order_id: 766
+  customer_id: 832
+  order_date: '2025-04-17 01:42:23'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 1542.05
+  discount_amount: 22.38
+  shipping_cost: 1.9
+- order_id: 767
+  customer_id: 366
+  order_date: '2024-10-12 18:29:20'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 540.35
+  discount_amount: 78.32
+  shipping_cost: 38.15
+- order_id: 768
+  customer_id: 979
+  order_date: '2025-01-09 16:32:54'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 1070.07
+  discount_amount: 84.32
+  shipping_cost: 36.96
+- order_id: 769
+  customer_id: 848
+  order_date: '2025-06-14 12:48:14'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 1833.17
+  discount_amount: 13.4
+  shipping_cost: 10.24
+- order_id: 770
+  customer_id: 77
+  order_date: '2025-04-30 07:58:40'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 389.55
+  discount_amount: 40.14
+  shipping_cost: 29.59
+- order_id: 771
+  customer_id: 273
+  order_date: '2024-12-14 03:46:30'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 1353.38
+  discount_amount: 96.26
+  shipping_cost: 1.14
+- order_id: 772
+  customer_id: 330
+  order_date: '2024-10-15 04:28:29'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 1719.24
+  discount_amount: 84.94
+  shipping_cost: 9.85
+- order_id: 773
+  customer_id: 126
+  order_date: '2025-01-21 12:36:28'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 164.37
+  discount_amount: 51.1
+  shipping_cost: 32.59
+- order_id: 774
+  customer_id: 920
+  order_date: '2025-06-26 12:13:31'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 864.84
+  discount_amount: 86.83
+  shipping_cost: 14.69
+- order_id: 775
+  customer_id: 289
+  order_date: '2024-10-23 07:26:22'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 1966.6
+  discount_amount: 58.15
+  shipping_cost: 30.08
+- order_id: 776
+  customer_id: 528
+  order_date: '2025-08-11 15:31:36'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 1172.42
+  discount_amount: 14.23
+  shipping_cost: 22.04
+- order_id: 777
+  customer_id: 797
+  order_date: '2024-12-27 06:40:43'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 1736.84
+  discount_amount: 74.39
+  shipping_cost: 4.67
+- order_id: 778
+  customer_id: 74
+  order_date: '2025-01-09 06:22:29'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 885.54
+  discount_amount: 51.55
+  shipping_cost: 16.81
+- order_id: 779
+  customer_id: 463
+  order_date: '2025-05-03 10:48:27'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 1774.23
+  discount_amount: 53.87
+  shipping_cost: 27.94
+- order_id: 780
+  customer_id: 242
+  order_date: '2025-04-26 07:17:40'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 641.3
+  discount_amount: 4.97
+  shipping_cost: 32.68
+- order_id: 781
+  customer_id: 940
+  order_date: '2025-09-23 10:40:49'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 1575.29
+  discount_amount: 68.56
+  shipping_cost: 36.61
+- order_id: 782
+  customer_id: 781
+  order_date: '2025-02-27 22:37:04'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 900.58
+  discount_amount: 63.6
+  shipping_cost: 6.45
+- order_id: 783
+  customer_id: 196
+  order_date: '2024-12-08 05:02:02'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 101.06
+  discount_amount: 7.15
+  shipping_cost: 36.03
+- order_id: 784
+  customer_id: 821
+  order_date: '2025-08-22 10:04:40'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 629.54
+  discount_amount: 24.32
+  shipping_cost: 34.39
+- order_id: 785
+  customer_id: 180
+  order_date: '2025-04-29 00:32:46'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 612.92
+  discount_amount: 17.11
+  shipping_cost: 10.05
+- order_id: 786
+  customer_id: 304
+  order_date: '2025-06-09 09:05:18'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 327.36
+  discount_amount: 73.33
+  shipping_cost: 10.37
+- order_id: 787
+  customer_id: 716
+  order_date: '2024-12-08 10:18:52'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 1183.5
+  discount_amount: 39.98
+  shipping_cost: 6.94
+- order_id: 788
+  customer_id: 228
+  order_date: '2024-12-27 18:30:57'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 499.11
+  discount_amount: 6.9
+  shipping_cost: 8.54
+- order_id: 789
+  customer_id: 323
+  order_date: '2025-01-09 06:00:10'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 871.91
+  discount_amount: 43.16
+  shipping_cost: 38.98
+- order_id: 790
+  customer_id: 402
+  order_date: '2024-10-18 14:00:10'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 689.33
+  discount_amount: 32.92
+  shipping_cost: 17.61
+- order_id: 791
+  customer_id: 706
+  order_date: '2025-07-24 21:45:07'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 23.17
+  discount_amount: 11.35
+  shipping_cost: 18.02
+- order_id: 792
+  customer_id: 644
+  order_date: '2024-11-17 04:58:34'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 1640.51
+  discount_amount: 90.68
+  shipping_cost: 13.61
+- order_id: 793
+  customer_id: 384
+  order_date: '2025-02-06 19:40:07'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 1942.1
+  discount_amount: 80.2
+  shipping_cost: 31.15
+- order_id: 794
+  customer_id: 349
+  order_date: '2024-12-28 18:56:08'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 207.98
+  discount_amount: 99.01
+  shipping_cost: 8.41
+- order_id: 795
+  customer_id: 414
+  order_date: '2024-12-31 10:01:36'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 688.54
+  discount_amount: 59.9
+  shipping_cost: 28.78
+- order_id: 796
+  customer_id: 655
+  order_date: '2025-08-14 16:09:05'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 891.06
+  discount_amount: 58.98
+  shipping_cost: 20.81
+- order_id: 797
+  customer_id: 955
+  order_date: '2025-01-14 18:22:07'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 1396.2
+  discount_amount: 62.67
+  shipping_cost: 26.53
+- order_id: 798
+  customer_id: 657
+  order_date: '2024-12-07 00:09:44'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 822.89
+  discount_amount: 50.52
+  shipping_cost: 22.2
+- order_id: 799
+  customer_id: 270
+  order_date: '2025-06-22 17:15:07'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 408.47
+  discount_amount: 23.89
+  shipping_cost: 24.05
+- order_id: 800
+  customer_id: 330
+  order_date: '2025-01-10 07:43:49'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 1541.73
+  discount_amount: 16.96
+  shipping_cost: 31.07
+- order_id: 801
+  customer_id: 666
+  order_date: '2025-03-29 07:17:55'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 541.32
+  discount_amount: 86.97
+  shipping_cost: 25.32
+- order_id: 802
+  customer_id: 429
+  order_date: '2024-10-26 23:08:00'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 1694.04
+  discount_amount: 90.84
+  shipping_cost: 30.69
+- order_id: 803
+  customer_id: 50
+  order_date: '2024-10-19 04:50:42'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 1647.29
+  discount_amount: 46.51
+  shipping_cost: 37.84
+- order_id: 804
+  customer_id: 280
+  order_date: '2025-06-03 07:33:33'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 1275.19
+  discount_amount: 68.5
+  shipping_cost: 1.18
+- order_id: 805
+  customer_id: 191
+  order_date: '2025-04-06 23:06:36'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 151.04
+  discount_amount: 0.88
+  shipping_cost: 12.13
+- order_id: 806
+  customer_id: 702
+  order_date: '2025-03-20 04:40:27'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 152.96
+  discount_amount: 14.29
+  shipping_cost: 22.98
+- order_id: 807
+  customer_id: 88
+  order_date: '2024-10-29 12:18:06'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 353.13
+  discount_amount: 14.96
+  shipping_cost: 33.62
+- order_id: 808
+  customer_id: 14
+  order_date: '2025-02-04 08:18:01'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 1181.1
+  discount_amount: 45.48
+  shipping_cost: 17.89
+- order_id: 809
+  customer_id: 174
+  order_date: '2024-12-27 06:37:13'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 1889.38
+  discount_amount: 55.02
+  shipping_cost: 39.84
+- order_id: 810
+  customer_id: 292
+  order_date: '2025-01-26 22:27:40'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 148.2
+  discount_amount: 17.24
+  shipping_cost: 33.27
+- order_id: 811
+  customer_id: 201
+  order_date: '2024-10-17 02:05:08'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 1962.36
+  discount_amount: 42.81
+  shipping_cost: 31.74
+- order_id: 812
+  customer_id: 906
+  order_date: '2025-09-27 01:18:53'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 1826.41
+  discount_amount: 16.31
+  shipping_cost: 15.36
+- order_id: 813
+  customer_id: 656
+  order_date: '2024-12-02 09:47:40'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 1555.41
+  discount_amount: 84.07
+  shipping_cost: 26.54
+- order_id: 814
+  customer_id: 477
+  order_date: '2025-06-22 15:57:19'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 55.74
+  discount_amount: 14.39
+  shipping_cost: 25.93
+- order_id: 815
+  customer_id: 573
+  order_date: '2024-10-27 22:56:25'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 1116.45
+  discount_amount: 2.55
+  shipping_cost: 3.84
+- order_id: 816
+  customer_id: 685
+  order_date: '2025-09-09 00:11:13'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 670.58
+  discount_amount: 95.63
+  shipping_cost: 17.48
+- order_id: 817
+  customer_id: 703
+  order_date: '2025-03-17 10:24:21'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 1502.2
+  discount_amount: 50.38
+  shipping_cost: 4.73
+- order_id: 818
+  customer_id: 311
+  order_date: '2025-02-27 00:08:56'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 1332.15
+  discount_amount: 53.19
+  shipping_cost: 31.61
+- order_id: 819
+  customer_id: 162
+  order_date: '2025-09-28 06:30:33'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 402.61
+  discount_amount: 47.8
+  shipping_cost: 11.04
+- order_id: 820
+  customer_id: 85
+  order_date: '2025-01-06 18:40:00'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 1377.58
+  discount_amount: 49.81
+  shipping_cost: 10.79
+- order_id: 821
+  customer_id: 900
+  order_date: '2025-01-11 01:37:33'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 756.0
+  discount_amount: 35.35
+  shipping_cost: 17.12
+- order_id: 822
+  customer_id: 8
+  order_date: '2025-06-06 03:27:05'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 1387.93
+  discount_amount: 38.64
+  shipping_cost: 38.32
+- order_id: 823
+  customer_id: 878
+  order_date: '2025-03-19 21:04:12'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 1401.89
+  discount_amount: 76.71
+  shipping_cost: 19.8
+- order_id: 824
+  customer_id: 202
+  order_date: '2025-02-01 23:08:19'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 603.92
+  discount_amount: 53.2
+  shipping_cost: 4.1
+- order_id: 825
+  customer_id: 271
+  order_date: '2025-03-30 17:48:58'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 869.9
+  discount_amount: 46.97
+  shipping_cost: 28.99
+- order_id: 826
+  customer_id: 621
+  order_date: '2025-07-17 13:15:35'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 1865.12
+  discount_amount: 12.04
+  shipping_cost: 4.0
+- order_id: 827
+  customer_id: 947
+  order_date: '2025-06-21 15:50:39'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 1365.69
+  discount_amount: 13.68
+  shipping_cost: 28.09
+- order_id: 828
+  customer_id: 388
+  order_date: '2025-06-15 22:30:41'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 1375.32
+  discount_amount: 64.7
+  shipping_cost: 24.07
+- order_id: 829
+  customer_id: 210
+  order_date: '2025-06-29 09:17:09'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 1027.72
+  discount_amount: 78.67
+  shipping_cost: 32.44
+- order_id: 830
+  customer_id: 117
+  order_date: '2025-04-07 15:53:43'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 1270.0
+  discount_amount: 86.3
+  shipping_cost: 34.3
+- order_id: 831
+  customer_id: 393
+  order_date: '2025-04-02 15:20:58'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 810.59
+  discount_amount: 43.79
+  shipping_cost: 10.17
+- order_id: 832
+  customer_id: 380
+  order_date: '2024-12-22 12:13:26'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 76.4
+  discount_amount: 2.18
+  shipping_cost: 39.38
+- order_id: 833
+  customer_id: 445
+  order_date: '2025-06-12 01:49:24'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 1787.73
+  discount_amount: 3.77
+  shipping_cost: 10.13
+- order_id: 834
+  customer_id: 194
+  order_date: '2025-07-29 13:08:03'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 430.28
+  discount_amount: 35.84
+  shipping_cost: 14.86
+- order_id: 835
+  customer_id: 945
+  order_date: '2024-10-01 01:29:21'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 1342.28
+  discount_amount: 89.35
+  shipping_cost: 24.2
+- order_id: 836
+  customer_id: 515
+  order_date: '2025-07-30 17:48:11'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 524.42
+  discount_amount: 25.22
+  shipping_cost: 28.66
+- order_id: 837
+  customer_id: 54
+  order_date: '2024-11-23 22:27:06'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 1584.75
+  discount_amount: 83.63
+  shipping_cost: 11.47
+- order_id: 838
+  customer_id: 889
+  order_date: '2025-08-16 06:28:12'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 1426.71
+  discount_amount: 32.9
+  shipping_cost: 9.96
+- order_id: 839
+  customer_id: 902
+  order_date: '2024-11-01 13:03:56'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 1963.39
+  discount_amount: 14.88
+  shipping_cost: 27.44
+- order_id: 840
+  customer_id: 890
+  order_date: '2024-12-09 12:18:50'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 334.92
+  discount_amount: 55.09
+  shipping_cost: 22.3
+- order_id: 841
+  customer_id: 790
+  order_date: '2025-07-15 18:25:24'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 941.67
+  discount_amount: 18.77
+  shipping_cost: 23.58
+- order_id: 842
+  customer_id: 510
+  order_date: '2025-06-12 08:42:12'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 1635.97
+  discount_amount: 87.73
+  shipping_cost: 9.78
+- order_id: 843
+  customer_id: 184
+  order_date: '2025-08-15 19:18:15'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 346.85
+  discount_amount: 72.28
+  shipping_cost: 9.88
+- order_id: 844
+  customer_id: 408
+  order_date: '2024-12-22 15:37:59'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 678.59
+  discount_amount: 45.19
+  shipping_cost: 10.45
+- order_id: 845
+  customer_id: 533
+  order_date: '2025-04-24 08:24:58'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 1394.09
+  discount_amount: 34.78
+  shipping_cost: 23.04
+- order_id: 846
+  customer_id: 603
+  order_date: '2024-10-10 10:20:06'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 1384.07
+  discount_amount: 57.54
+  shipping_cost: 30.35
+- order_id: 847
+  customer_id: 377
+  order_date: '2025-01-14 05:57:04'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 1304.75
+  discount_amount: 85.33
+  shipping_cost: 10.38
+- order_id: 848
+  customer_id: 826
+  order_date: '2024-10-11 06:02:07'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 1171.44
+  discount_amount: 79.06
+  shipping_cost: 14.61
+- order_id: 849
+  customer_id: 450
+  order_date: '2025-07-28 17:04:25'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 1009.82
+  discount_amount: 13.19
+  shipping_cost: 1.52
+- order_id: 850
+  customer_id: 465
+  order_date: '2025-07-30 20:07:28'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 482.58
+  discount_amount: 94.43
+  shipping_cost: 2.54
+- order_id: 851
+  customer_id: 874
+  order_date: '2025-03-02 06:38:54'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 1325.11
+  discount_amount: 60.33
+  shipping_cost: 2.08
+- order_id: 852
+  customer_id: 134
+  order_date: '2025-06-06 18:27:24'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 1281.41
+  discount_amount: 97.15
+  shipping_cost: 24.78
+- order_id: 853
+  customer_id: 108
+  order_date: '2025-08-11 17:08:32'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 1819.59
+  discount_amount: 58.58
+  shipping_cost: 9.99
+- order_id: 854
+  customer_id: 163
+  order_date: '2025-06-07 00:24:34'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 281.94
+  discount_amount: 85.87
+  shipping_cost: 9.05
+- order_id: 855
+  customer_id: 91
+  order_date: '2025-06-28 00:11:37'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 1465.15
+  discount_amount: 1.83
+  shipping_cost: 38.36
+- order_id: 856
+  customer_id: 558
+  order_date: '2025-06-09 06:58:41'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 75.07
+  discount_amount: 19.56
+  shipping_cost: 0.09
+- order_id: 857
+  customer_id: 406
+  order_date: '2024-11-27 04:11:57'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 1979.3
+  discount_amount: 44.68
+  shipping_cost: 16.69
+- order_id: 858
+  customer_id: 518
+  order_date: '2025-05-30 12:40:49'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 1581.85
+  discount_amount: 22.77
+  shipping_cost: 25.87
+- order_id: 859
+  customer_id: 551
+  order_date: '2025-09-28 22:26:01'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 976.3
+  discount_amount: 8.5
+  shipping_cost: 8.87
+- order_id: 860
+  customer_id: 473
+  order_date: '2025-05-03 03:43:29'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 1021.1
+  discount_amount: 34.43
+  shipping_cost: 11.27
+- order_id: 861
+  customer_id: 822
+  order_date: '2025-02-10 09:44:33'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 633.31
+  discount_amount: 94.24
+  shipping_cost: 17.97
+- order_id: 862
+  customer_id: 343
+  order_date: '2025-01-23 06:44:49'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 1356.43
+  discount_amount: 6.58
+  shipping_cost: 30.82
+- order_id: 863
+  customer_id: 235
+  order_date: '2024-10-19 03:26:34'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 1001.9
+  discount_amount: 29.12
+  shipping_cost: 35.17
+- order_id: 864
+  customer_id: 386
+  order_date: '2024-10-07 20:14:26'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 240.9
+  discount_amount: 72.07
+  shipping_cost: 8.97
+- order_id: 865
+  customer_id: 440
+  order_date: '2025-08-22 21:35:35'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 234.23
+  discount_amount: 58.89
+  shipping_cost: 8.09
+- order_id: 866
+  customer_id: 551
+  order_date: '2025-06-27 10:39:11'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 1357.96
+  discount_amount: 52.75
+  shipping_cost: 35.86
+- order_id: 867
+  customer_id: 427
+  order_date: '2025-07-18 03:46:49'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 1926.05
+  discount_amount: 37.1
+  shipping_cost: 39.51
+- order_id: 868
+  customer_id: 509
+  order_date: '2025-07-27 05:02:09'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 1430.59
+  discount_amount: 89.24
+  shipping_cost: 12.55
+- order_id: 869
+  customer_id: 418
+  order_date: '2025-02-28 07:39:57'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 1587.54
+  discount_amount: 4.49
+  shipping_cost: 10.61
+- order_id: 870
+  customer_id: 133
+  order_date: '2025-01-24 09:27:21'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 880.34
+  discount_amount: 76.38
+  shipping_cost: 3.92
+- order_id: 871
+  customer_id: 788
+  order_date: '2025-02-16 23:42:35'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 475.45
+  discount_amount: 15.45
+  shipping_cost: 6.54
+- order_id: 872
+  customer_id: 589
+  order_date: '2025-03-09 15:55:02'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 1567.36
+  discount_amount: 99.96
+  shipping_cost: 12.23
+- order_id: 873
+  customer_id: 492
+  order_date: '2025-04-16 04:52:55'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 1001.23
+  discount_amount: 30.26
+  shipping_cost: 13.22
+- order_id: 874
+  customer_id: 829
+  order_date: '2024-11-06 10:13:32'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 1446.86
+  discount_amount: 10.26
+  shipping_cost: 39.52
+- order_id: 875
+  customer_id: 275
+  order_date: '2025-03-18 15:46:06'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 1828.79
+  discount_amount: 53.93
+  shipping_cost: 13.75
+- order_id: 876
+  customer_id: 350
+  order_date: '2024-12-06 23:12:11'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 613.42
+  discount_amount: 13.49
+  shipping_cost: 10.58
+- order_id: 877
+  customer_id: 18
+  order_date: '2025-06-11 16:59:00'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 823.85
+  discount_amount: 93.73
+  shipping_cost: 5.81
+- order_id: 878
+  customer_id: 954
+  order_date: '2025-08-10 23:40:30'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 1262.08
+  discount_amount: 25.25
+  shipping_cost: 9.39
+- order_id: 879
+  customer_id: 848
+  order_date: '2025-06-12 03:43:27'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 907.91
+  discount_amount: 90.0
+  shipping_cost: 32.0
+- order_id: 880
+  customer_id: 218
+  order_date: '2025-09-21 08:20:55'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 815.56
+  discount_amount: 40.48
+  shipping_cost: 26.85
+- order_id: 881
+  customer_id: 357
+  order_date: '2025-06-30 06:50:15'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 1464.65
+  discount_amount: 18.45
+  shipping_cost: 29.62
+- order_id: 882
+  customer_id: 651
+  order_date: '2025-09-27 02:51:04'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 793.66
+  discount_amount: 68.18
+  shipping_cost: 15.25
+- order_id: 883
+  customer_id: 229
+  order_date: '2025-07-03 23:51:43'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 959.3
+  discount_amount: 61.66
+  shipping_cost: 1.22
+- order_id: 884
+  customer_id: 591
+  order_date: '2025-04-23 08:00:00'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 1784.54
+  discount_amount: 18.05
+  shipping_cost: 14.39
+- order_id: 885
+  customer_id: 527
+  order_date: '2025-05-24 18:14:35'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 374.74
+  discount_amount: 80.69
+  shipping_cost: 38.19
+- order_id: 886
+  customer_id: 203
+  order_date: '2024-10-11 15:21:16'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 1859.0
+  discount_amount: 46.24
+  shipping_cost: 33.13
+- order_id: 887
+  customer_id: 491
+  order_date: '2025-05-28 00:42:53'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 52.94
+  discount_amount: 12.36
+  shipping_cost: 31.39
+- order_id: 888
+  customer_id: 799
+  order_date: '2025-08-01 08:19:38'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 780.03
+  discount_amount: 61.04
+  shipping_cost: 10.13
+- order_id: 889
+  customer_id: 858
+  order_date: '2025-02-16 15:21:05'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 1628.31
+  discount_amount: 1.22
+  shipping_cost: 16.11
+- order_id: 890
+  customer_id: 341
+  order_date: '2025-08-29 12:35:16'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 1695.18
+  discount_amount: 28.74
+  shipping_cost: 33.07
+- order_id: 891
+  customer_id: 584
+  order_date: '2024-11-27 03:02:21'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 978.48
+  discount_amount: 1.69
+  shipping_cost: 22.14
+- order_id: 892
+  customer_id: 482
+  order_date: '2025-06-04 07:42:11'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 1749.29
+  discount_amount: 95.07
+  shipping_cost: 18.72
+- order_id: 893
+  customer_id: 598
+  order_date: '2025-09-08 07:44:37'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 472.57
+  discount_amount: 76.45
+  shipping_cost: 7.7
+- order_id: 894
+  customer_id: 359
+  order_date: '2025-05-18 16:43:54'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 1363.84
+  discount_amount: 98.12
+  shipping_cost: 16.01
+- order_id: 895
+  customer_id: 813
+  order_date: '2025-03-20 23:36:27'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 1979.24
+  discount_amount: 91.69
+  shipping_cost: 16.39
+- order_id: 896
+  customer_id: 680
+  order_date: '2025-09-14 20:17:27'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 564.57
+  discount_amount: 83.47
+  shipping_cost: 33.92
+- order_id: 897
+  customer_id: 515
+  order_date: '2024-12-03 22:58:19'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 1653.23
+  discount_amount: 86.85
+  shipping_cost: 11.98
+- order_id: 898
+  customer_id: 808
+  order_date: '2024-10-17 02:26:13'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 1594.13
+  discount_amount: 94.7
+  shipping_cost: 4.76
+- order_id: 899
+  customer_id: 20
+  order_date: '2025-09-06 22:48:43'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 1028.94
+  discount_amount: 98.74
+  shipping_cost: 10.32
+- order_id: 900
+  customer_id: 933
+  order_date: '2025-09-13 19:27:33'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 1612.58
+  discount_amount: 56.06
+  shipping_cost: 2.3
+- order_id: 901
+  customer_id: 907
+  order_date: '2025-01-07 16:33:42'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 614.32
+  discount_amount: 27.95
+  shipping_cost: 5.01
+- order_id: 902
+  customer_id: 100
+  order_date: '2024-11-02 19:51:40'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 1088.55
+  discount_amount: 88.36
+  shipping_cost: 33.49
+- order_id: 903
+  customer_id: 606
+  order_date: '2024-10-16 23:05:29'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 526.0
+  discount_amount: 59.16
+  shipping_cost: 36.63
+- order_id: 904
+  customer_id: 612
+  order_date: '2024-12-17 07:06:25'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 1583.14
+  discount_amount: 10.26
+  shipping_cost: 22.08
+- order_id: 905
+  customer_id: 180
+  order_date: '2024-12-07 19:52:42'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 1221.39
+  discount_amount: 48.13
+  shipping_cost: 32.09
+- order_id: 906
+  customer_id: 340
+  order_date: '2025-08-26 13:57:26'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 457.97
+  discount_amount: 62.27
+  shipping_cost: 30.83
+- order_id: 907
+  customer_id: 823
+  order_date: '2024-10-30 20:28:49'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 1126.91
+  discount_amount: 50.37
+  shipping_cost: 38.61
+- order_id: 908
+  customer_id: 116
+  order_date: '2025-06-12 13:20:02'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 1274.37
+  discount_amount: 85.26
+  shipping_cost: 38.04
+- order_id: 909
+  customer_id: 773
+  order_date: '2025-01-01 05:11:06'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 1059.34
+  discount_amount: 72.86
+  shipping_cost: 14.89
+- order_id: 910
+  customer_id: 47
+  order_date: '2025-03-23 06:27:49'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 1699.61
+  discount_amount: 96.54
+  shipping_cost: 25.44
+- order_id: 911
+  customer_id: 860
+  order_date: '2025-05-11 06:10:14'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 422.39
+  discount_amount: 8.1
+  shipping_cost: 32.33
+- order_id: 912
+  customer_id: 357
+  order_date: '2025-09-11 16:39:22'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 1427.12
+  discount_amount: 88.63
+  shipping_cost: 30.66
+- order_id: 913
+  customer_id: 312
+  order_date: '2024-12-21 20:21:25'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 1909.63
+  discount_amount: 16.1
+  shipping_cost: 30.25
+- order_id: 914
+  customer_id: 472
+  order_date: '2024-12-29 08:48:04'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 694.78
+  discount_amount: 52.06
+  shipping_cost: 3.22
+- order_id: 915
+  customer_id: 432
+  order_date: '2025-03-20 07:34:15'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 738.91
+  discount_amount: 68.53
+  shipping_cost: 36.76
+- order_id: 916
+  customer_id: 685
+  order_date: '2025-02-21 02:59:20'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 693.81
+  discount_amount: 67.98
+  shipping_cost: 13.68
+- order_id: 917
+  customer_id: 124
+  order_date: '2025-09-27 14:02:14'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 519.27
+  discount_amount: 85.38
+  shipping_cost: 30.71
+- order_id: 918
+  customer_id: 748
+  order_date: '2025-01-05 12:19:10'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 1269.71
+  discount_amount: 4.78
+  shipping_cost: 38.51
+- order_id: 919
+  customer_id: 799
+  order_date: '2025-08-05 11:51:04'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 735.19
+  discount_amount: 50.11
+  shipping_cost: 19.62
+- order_id: 920
+  customer_id: 585
+  order_date: '2025-01-18 06:34:46'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 31.14
+  discount_amount: 56.21
+  shipping_cost: 13.7
+- order_id: 921
+  customer_id: 289
+  order_date: '2025-09-12 04:42:01'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 670.92
+  discount_amount: 21.38
+  shipping_cost: 19.38
+- order_id: 922
+  customer_id: 139
+  order_date: '2025-03-31 07:37:16'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 1164.01
+  discount_amount: 86.26
+  shipping_cost: 34.02
+- order_id: 923
+  customer_id: 991
+  order_date: '2025-02-27 11:34:52'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 1138.14
+  discount_amount: 40.15
+  shipping_cost: 4.29
+- order_id: 924
+  customer_id: 400
+  order_date: '2025-07-08 13:46:59'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 559.21
+  discount_amount: 79.86
+  shipping_cost: 30.33
+- order_id: 925
+  customer_id: 598
+  order_date: '2025-07-19 21:17:12'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 57.32
+  discount_amount: 64.1
+  shipping_cost: 28.19
+- order_id: 926
+  customer_id: 536
+  order_date: '2025-08-15 18:55:38'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 890.73
+  discount_amount: 18.28
+  shipping_cost: 17.49
+- order_id: 927
+  customer_id: 208
+  order_date: '2024-12-17 10:52:34'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 1645.76
+  discount_amount: 50.06
+  shipping_cost: 25.09
+- order_id: 928
+  customer_id: 466
+  order_date: '2025-05-21 05:22:45'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 1854.17
+  discount_amount: 24.4
+  shipping_cost: 28.68
+- order_id: 929
+  customer_id: 907
+  order_date: '2025-02-10 01:11:18'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 1148.11
+  discount_amount: 58.39
+  shipping_cost: 32.82
+- order_id: 930
+  customer_id: 443
+  order_date: '2024-11-10 11:31:01'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 1730.7
+  discount_amount: 99.11
+  shipping_cost: 24.07
+- order_id: 931
+  customer_id: 46
+  order_date: '2025-04-05 11:31:18'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 1931.58
+  discount_amount: 62.08
+  shipping_cost: 7.46
+- order_id: 932
+  customer_id: 812
+  order_date: '2025-07-01 09:59:46'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 486.84
+  discount_amount: 51.11
+  shipping_cost: 1.47
+- order_id: 933
+  customer_id: 909
+  order_date: '2025-02-11 14:28:20'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 782.38
+  discount_amount: 35.38
+  shipping_cost: 39.84
+- order_id: 934
+  customer_id: 291
+  order_date: '2025-05-11 22:49:02'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 354.86
+  discount_amount: 73.35
+  shipping_cost: 34.91
+- order_id: 935
+  customer_id: 950
+  order_date: '2025-06-10 11:07:20'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 162.7
+  discount_amount: 67.12
+  shipping_cost: 10.01
+- order_id: 936
+  customer_id: 167
+  order_date: '2025-05-16 05:45:54'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 869.9
+  discount_amount: 24.68
+  shipping_cost: 26.74
+- order_id: 937
+  customer_id: 640
+  order_date: '2025-01-10 09:23:55'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 718.26
+  discount_amount: 92.07
+  shipping_cost: 5.07
+- order_id: 938
+  customer_id: 679
+  order_date: '2025-05-27 15:23:35'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 898.77
+  discount_amount: 47.64
+  shipping_cost: 26.99
+- order_id: 939
+  customer_id: 47
+  order_date: '2025-07-07 11:02:14'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 1373.55
+  discount_amount: 21.38
+  shipping_cost: 27.37
+- order_id: 940
+  customer_id: 998
+  order_date: '2025-05-22 12:46:02'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 672.19
+  discount_amount: 89.72
+  shipping_cost: 27.97
+- order_id: 941
+  customer_id: 632
+  order_date: '2025-02-20 21:16:37'
+  order_status: Pending
+  payment_method: Cash
+  total_amount: 1862.34
+  discount_amount: 55.63
+  shipping_cost: 9.01
+- order_id: 942
+  customer_id: 522
+  order_date: '2024-10-21 19:50:50'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 499.39
+  discount_amount: 59.09
+  shipping_cost: 15.67
+- order_id: 943
+  customer_id: 622
+  order_date: '2025-04-01 04:45:57'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 1588.88
+  discount_amount: 39.68
+  shipping_cost: 33.15
+- order_id: 944
+  customer_id: 862
+  order_date: '2025-06-02 13:27:14'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 814.07
+  discount_amount: 60.7
+  shipping_cost: 31.44
+- order_id: 945
+  customer_id: 595
+  order_date: '2025-07-01 12:46:18'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 269.42
+  discount_amount: 26.59
+  shipping_cost: 34.91
+- order_id: 946
+  customer_id: 347
+  order_date: '2025-08-11 15:00:17'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 925.52
+  discount_amount: 36.75
+  shipping_cost: 16.33
+- order_id: 947
+  customer_id: 967
+  order_date: '2025-07-30 01:49:42'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 1762.32
+  discount_amount: 97.95
+  shipping_cost: 34.78
+- order_id: 948
+  customer_id: 247
+  order_date: '2025-04-24 05:50:07'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 1348.8
+  discount_amount: 30.27
+  shipping_cost: 0.11
+- order_id: 949
+  customer_id: 701
+  order_date: '2025-02-02 15:36:32'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 1113.47
+  discount_amount: 40.14
+  shipping_cost: 2.25
+- order_id: 950
+  customer_id: 614
+  order_date: '2025-09-21 09:02:13'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 1700.33
+  discount_amount: 0.18
+  shipping_cost: 4.66
+- order_id: 951
+  customer_id: 865
+  order_date: '2025-05-13 10:32:15'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 602.06
+  discount_amount: 81.31
+  shipping_cost: 4.77
+- order_id: 952
+  customer_id: 237
+  order_date: '2025-01-18 21:27:28'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 1533.18
+  discount_amount: 6.36
+  shipping_cost: 11.53
+- order_id: 953
+  customer_id: 925
+  order_date: '2025-09-23 11:01:51'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 679.4
+  discount_amount: 60.2
+  shipping_cost: 15.17
+- order_id: 954
+  customer_id: 104
+  order_date: '2025-01-01 12:26:46'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 834.99
+  discount_amount: 71.94
+  shipping_cost: 38.1
+- order_id: 955
+  customer_id: 122
+  order_date: '2025-09-09 13:51:02'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 737.9
+  discount_amount: 16.7
+  shipping_cost: 28.91
+- order_id: 956
+  customer_id: 20
+  order_date: '2025-03-01 19:11:54'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 1828.96
+  discount_amount: 18.51
+  shipping_cost: 29.63
+- order_id: 957
+  customer_id: 583
+  order_date: '2025-08-01 01:03:09'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 543.83
+  discount_amount: 76.88
+  shipping_cost: 33.71
+- order_id: 958
+  customer_id: 455
+  order_date: '2025-02-04 04:25:01'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 1272.89
+  discount_amount: 72.59
+  shipping_cost: 16.09
+- order_id: 959
+  customer_id: 689
+  order_date: '2025-08-30 09:25:42'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 1810.99
+  discount_amount: 67.95
+  shipping_cost: 35.18
+- order_id: 960
+  customer_id: 729
+  order_date: '2025-01-14 00:55:13'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 1265.14
+  discount_amount: 95.38
+  shipping_cost: 21.84
+- order_id: 961
+  customer_id: 443
+  order_date: '2025-01-11 19:03:15'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 802.12
+  discount_amount: 32.53
+  shipping_cost: 37.01
+- order_id: 962
+  customer_id: 206
+  order_date: '2025-04-11 00:47:44'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 1580.34
+  discount_amount: 44.39
+  shipping_cost: 25.94
+- order_id: 963
+  customer_id: 578
+  order_date: '2025-05-12 02:30:56'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 353.91
+  discount_amount: 80.82
+  shipping_cost: 15.52
+- order_id: 964
+  customer_id: 501
+  order_date: '2025-04-19 15:37:57'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 1373.24
+  discount_amount: 63.63
+  shipping_cost: 20.45
+- order_id: 965
+  customer_id: 215
+  order_date: '2025-07-28 07:57:12'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 713.03
+  discount_amount: 80.99
+  shipping_cost: 11.14
+- order_id: 966
+  customer_id: 950
+  order_date: '2024-11-08 14:38:28'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 132.1
+  discount_amount: 64.44
+  shipping_cost: 38.37
+- order_id: 967
+  customer_id: 626
+  order_date: '2024-12-08 10:29:20'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 639.66
+  discount_amount: 87.58
+  shipping_cost: 12.56
+- order_id: 968
+  customer_id: 136
+  order_date: '2025-03-15 06:11:33'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 1307.91
+  discount_amount: 85.45
+  shipping_cost: 35.55
+- order_id: 969
+  customer_id: 785
+  order_date: '2024-10-07 17:38:01'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 773.4
+  discount_amount: 84.57
+  shipping_cost: 33.17
+- order_id: 970
+  customer_id: 960
+  order_date: '2025-04-15 03:58:07'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 1428.75
+  discount_amount: 9.61
+  shipping_cost: 6.46
+- order_id: 971
+  customer_id: 133
+  order_date: '2024-11-24 10:30:47'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 857.16
+  discount_amount: 6.62
+  shipping_cost: 2.55
+- order_id: 972
+  customer_id: 45
+  order_date: '2025-05-25 12:15:25'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 1099.05
+  discount_amount: 45.11
+  shipping_cost: 39.62
+- order_id: 973
+  customer_id: 260
+  order_date: '2025-01-24 17:31:43'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 118.42
+  discount_amount: 41.42
+  shipping_cost: 26.36
+- order_id: 974
+  customer_id: 560
+  order_date: '2025-02-24 16:03:01'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 480.31
+  discount_amount: 61.2
+  shipping_cost: 6.48
+- order_id: 975
+  customer_id: 685
+  order_date: '2025-04-04 03:40:08'
+  order_status: Delivered
+  payment_method: Cash
+  total_amount: 1929.85
+  discount_amount: 73.42
+  shipping_cost: 7.71
+- order_id: 976
+  customer_id: 589
+  order_date: '2025-04-19 05:01:33'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 919.77
+  discount_amount: 38.21
+  shipping_cost: 13.33
+- order_id: 977
+  customer_id: 521
+  order_date: '2025-09-22 16:50:57'
+  order_status: Pending
+  payment_method: ApplePay
+  total_amount: 1974.94
+  discount_amount: 43.07
+  shipping_cost: 0.68
+- order_id: 978
+  customer_id: 249
+  order_date: '2025-03-16 04:21:42'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 119.78
+  discount_amount: 35.75
+  shipping_cost: 18.87
+- order_id: 979
+  customer_id: 863
+  order_date: '2025-05-22 09:13:55'
+  order_status: Shipped
+  payment_method: Card
+  total_amount: 1890.27
+  discount_amount: 21.64
+  shipping_cost: 35.8
+- order_id: 980
+  customer_id: 919
+  order_date: '2025-06-22 07:19:56'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 260.83
+  discount_amount: 73.35
+  shipping_cost: 17.46
+- order_id: 981
+  customer_id: 654
+  order_date: '2025-04-22 12:44:00'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 314.84
+  discount_amount: 17.5
+  shipping_cost: 26.95
+- order_id: 982
+  customer_id: 682
+  order_date: '2025-04-28 00:25:20'
+  order_status: Shipped
+  payment_method: GooglePay
+  total_amount: 1857.72
+  discount_amount: 29.87
+  shipping_cost: 4.43
+- order_id: 983
+  customer_id: 893
+  order_date: '2025-01-01 15:50:08'
+  order_status: Delivered
+  payment_method: ApplePay
+  total_amount: 324.58
+  discount_amount: 10.58
+  shipping_cost: 39.39
+- order_id: 984
+  customer_id: 405
+  order_date: '2025-01-17 23:23:02'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 1443.22
+  discount_amount: 42.17
+  shipping_cost: 10.04
+- order_id: 985
+  customer_id: 446
+  order_date: '2025-09-06 08:02:52'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 538.25
+  discount_amount: 45.1
+  shipping_cost: 35.05
+- order_id: 986
+  customer_id: 14
+  order_date: '2024-12-15 17:32:35'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 523.04
+  discount_amount: 2.52
+  shipping_cost: 29.23
+- order_id: 987
+  customer_id: 523
+  order_date: '2025-06-01 18:54:55'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 76.16
+  discount_amount: 44.72
+  shipping_cost: 32.65
+- order_id: 988
+  customer_id: 869
+  order_date: '2025-01-21 03:49:44'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 1440.79
+  discount_amount: 97.78
+  shipping_cost: 3.83
+- order_id: 989
+  customer_id: 99
+  order_date: '2024-12-09 05:03:32'
+  order_status: Pending
+  payment_method: GooglePay
+  total_amount: 1448.63
+  discount_amount: 80.99
+  shipping_cost: 16.5
+- order_id: 990
+  customer_id: 147
+  order_date: '2025-08-16 11:00:05'
+  order_status: Shipped
+  payment_method: ApplePay
+  total_amount: 1154.35
+  discount_amount: 60.82
+  shipping_cost: 27.89
+- order_id: 991
+  customer_id: 949
+  order_date: '2024-10-09 10:39:41'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 1162.73
+  discount_amount: 81.12
+  shipping_cost: 35.94
+- order_id: 992
+  customer_id: 161
+  order_date: '2025-06-12 19:34:16'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 559.81
+  discount_amount: 95.78
+  shipping_cost: 35.15
+- order_id: 993
+  customer_id: 756
+  order_date: '2025-09-15 16:58:17'
+  order_status: Shipped
+  payment_method: Cash
+  total_amount: 1135.08
+  discount_amount: 30.97
+  shipping_cost: 3.0
+- order_id: 994
+  customer_id: 581
+  order_date: '2024-11-24 00:27:16'
+  order_status: Pending
+  payment_method: Card
+  total_amount: 652.52
+  discount_amount: 48.42
+  shipping_cost: 3.8
+- order_id: 995
+  customer_id: 954
+  order_date: '2025-02-10 07:56:14'
+  order_status: Pending
+  payment_method: PayPal
+  total_amount: 1453.86
+  discount_amount: 51.84
+  shipping_cost: 17.1
+- order_id: 996
+  customer_id: 593
+  order_date: '2025-03-04 01:06:29'
+  order_status: Delivered
+  payment_method: PayPal
+  total_amount: 1118.53
+  discount_amount: 29.67
+  shipping_cost: 13.93
+- order_id: 997
+  customer_id: 532
+  order_date: '2025-07-03 18:12:24'
+  order_status: Delivered
+  payment_method: GooglePay
+  total_amount: 1221.74
+  discount_amount: 6.4
+  shipping_cost: 26.78
+- order_id: 998
+  customer_id: 611
+  order_date: '2024-11-08 10:53:01'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 164.76
+  discount_amount: 82.87
+  shipping_cost: 15.7
+- order_id: 999
+  customer_id: 133
+  order_date: '2025-01-13 13:02:56'
+  order_status: Delivered
+  payment_method: Card
+  total_amount: 1960.36
+  discount_amount: 43.2
+  shipping_cost: 24.56
+- order_id: 1000
+  customer_id: 202
+  order_date: '2025-01-12 13:50:46'
+  order_status: Shipped
+  payment_method: PayPal
+  total_amount: 1634.67
+  discount_amount: 63.09
+  shipping_cost: 17.2
