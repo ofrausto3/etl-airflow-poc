@@ -53,6 +53,8 @@
       AIRFLOW__CELERY__RESULT_BACKEND: db+postgresql://airflow:airflow@postgres/airflow
       AIRFLOW__CELERY__BROKER_URL: redis://:@redis:6379/0
       AIRFLOW__CORE__LOAD_EXAMPLES: "true"
+      _PIP_ADDITIONAL_REQUIREMENTS: "pandas pyyaml sqlalchemy psycopg2-binary python-dotenv"
+
     volumes:
       - ./dags:/opt/airflow/dags
       - ./logs:/opt/airflow/logs
@@ -76,6 +78,8 @@
       AIRFLOW__CELERY__RESULT_BACKEND: db+postgresql://airflow:airflow@postgres/airflow
       AIRFLOW__CELERY__BROKER_URL: redis://:@redis:6379/0
       AIRFLOW__CORE__LOAD_EXAMPLES: "true"
+      _PIP_ADDITIONAL_REQUIREMENTS: "pandas pyyaml sqlalchemy psycopg2-binary python-dotenv"
+
     volumes:
       - ./dags:/opt/airflow/dags
       - ./logs:/opt/airflow/logs
@@ -98,6 +102,8 @@
       AIRFLOW__CELERY__RESULT_BACKEND: db+postgresql://airflow:airflow@postgres/airflow
       AIRFLOW__CELERY__BROKER_URL: redis://:@redis:6379/0
       AIRFLOW__CORE__LOAD_EXAMPLES: "true"
+      _PIP_ADDITIONAL_REQUIREMENTS: "pandas pyyaml sqlalchemy psycopg2-binary python-dotenv"
+
     volumes:
       - ./dags:/opt/airflow/dags
       - ./logs:/opt/airflow/logs
@@ -120,6 +126,8 @@
       AIRFLOW__CELERY__RESULT_BACKEND: db+postgresql://airflow:airflow@postgres/airflow
       AIRFLOW__CELERY__BROKER_URL: redis://:@redis:6379/0
       AIRFLOW__CORE__LOAD_EXAMPLES: "true"
+      _PIP_ADDITIONAL_REQUIREMENTS: "pandas pyyaml sqlalchemy psycopg2-binary python-dotenv"
+
     volumes:
       - ./dags:/opt/airflow/dags
       - ./logs:/opt/airflow/logs

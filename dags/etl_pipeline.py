@@ -5,12 +5,15 @@ from datetime import datetime
 
 import pandas as pd
 import yaml
+import pendulum
 from sqlalchemy import create_engine, text
 from dotenv import load_dotenv
 from airflow.decorators import dag, task
 from airflow import AirflowException
 
-# load env (works inside container)
+tz = pendulum.timezone("America/Chicago")
+
+# load env
 load_dotenv("/opt/airflow/.env") or load_dotenv(".env")
 
 DATA_DIR    = os.getenv("DATA_DIR", "/opt/airflow/data")
@@ -33,15 +36,14 @@ default_args = {"owner": "oscar", "retries": 0}
 
 @dag(
     dag_id="etl_pipeline",
-    schedule="0 2 * * *",       # daily 2:00 AM
-    start_date=datetime(2025,1,1),
-    catchup=False,
-    default_args=default_args,
+    schedule="0 2 * * *",   # runs daily at 2:00 AM CT
+    start_date=pendulum.datetime(2025, 1, 1, tz=tz),  
+    catchup=False,           
     tags=["etl","mvp"]
 )
 def etl_pipeline():
 
-    # ---------- 1) file validation ----------
+    
     @task
     def file_validation():
         missing = []
@@ -52,7 +54,7 @@ def etl_pipeline():
         if missing:
             raise AirflowException(f"Missing/empty files: {missing}")
 
-        # quick readability checks (sample a few rows)
+        
         for n in ["customers.csv","products.csv","orders.csv"]:
             _ = pd.read_csv(Path(DATA_DIR)/n).head(1)
         for n in ["customers.json","products.json","orders.json"]:
@@ -64,17 +66,17 @@ def etl_pipeline():
                     raise AirflowException(f"Bad YAML structure: {n}")
         return "files_ok"
 
-    # ---------- 2) database setup ----------
+
     @task
     def db_setup():
         engine = create_engine(ENGINE_URL)
         schema_path = Path("/opt/airflow/sql/schema.sql")
         if not schema_path.exists():
-            # fallback if you ever run this outside the container
+            
             schema_path = Path.cwd().parent / "sql" / "schema.sql"
         ddl = schema_path.read_text(encoding="utf-8")
 
-        # run create table statements, then truncate for a clean run
+        #create table statements
         with engine.begin() as conn:
             for stmt in [s.strip() for s in ddl.split(";") if s.strip()]:
                 conn.execute(text(stmt))
@@ -83,7 +85,7 @@ def etl_pipeline():
             conn.execute(text("TRUNCATE TABLE customers RESTART IDENTITY CASCADE"))
         return "db_ready"
 
-    # ---------- 3) extraction (parallel) ----------
+    
     @task
     def extract_csv() -> dict:
         return {Path(p).name: p for p in glob.glob(str(Path(DATA_DIR) / "*.csv"))}
@@ -106,7 +108,7 @@ def etl_pipeline():
                 return pd.DataFrame(yaml.safe_load(f))
         raise ValueError(f"Unsupported file type: {path}")
 
-    # ---------- 4) loading ----------
+    
     @task
     def load_customers(csv_map: dict, json_map: dict, yaml_map: dict) -> int:
         engine = create_engine(ENGINE_URL)
@@ -131,7 +133,7 @@ def etl_pipeline():
         df.to_sql("orders", engine, if_exists="append", index=False, method="multi", chunksize=1000)
         return len(df)
 
-    # ---------- 5) validation ----------
+    
     @task
     def validate(_: dict) -> dict:
         engine = create_engine(ENGINE_URL)
@@ -150,7 +152,7 @@ def etl_pipeline():
             raise AirflowException("Row count check failed (expect ≥ 1000 per table)")
         return {"customers": cust, "products": prod, "orders": ords}
 
-    # ---------- 6) completion ----------
+    
     @task
     def completion(stats: dict) -> str:
         Path(ARCHIVE_DIR).mkdir(parents=True, exist_ok=True)
@@ -158,7 +160,7 @@ def etl_pipeline():
             shutil.move(str(f), str(Path(ARCHIVE_DIR) / f.name))
         return f"success: {stats}"
 
-    # wiring / dependencies
+    # ---- Task Instances ----
     fv = file_validation()
     db = db_setup()
 
@@ -166,15 +168,23 @@ def etl_pipeline():
     jsons = extract_json()
     yams = extract_yaml()
 
-    lc = load_customers(csvs, jsons, yams)     # orders must wait for customers
+    lc = load_customers(csvs, jsons, yams)
     lp = load_products(csvs, jsons, yams)
     lo = load_orders(csvs, jsons, yams)
 
-    lc.set_upstream([fv, db])
-    lp.set_upstream([fv, db])
-    lo.set_upstream([lc, fv, db])
+    v   = validate({"customers": lc, "products": lp, "orders": lo})
+    done = completion(v)
 
-    v  = validate({"customers": lc, "products": lp, "orders": lo})
-    _  = completion(v)
+    # --- dependencies ---
+    [fv, db] >> lc
+    [fv, db] >> lp
+    [fv, db] >> lo
+    lc >> lo
+    lc >> v
+    lp >> v
+    lo >> v
+    v >> done
+
+    
 
 etl_pipeline()
